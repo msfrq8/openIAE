@@ -1,3 +1,20 @@
-This repository contains all the architecture, design and code artifacts required to understand the functional definition of IAE, the design and ultimate technical implementation. It includes everything required to build a production environment for IAE, or smaller limited capability environments for the support of development, test or demo activities.
+SAM API Documentation
+====================
 
-The repository is split into two separate sections. The __as-is__ contains materials related to the pre-transformation systems. The __to-be__ contains architecture, design and code covering for the new transformed environment.
+This is the documentation repository for the GSA SAM API. 
+
+Thanks to CFPB team for creating this model and for furthering open source in government.  
+
+## Using JavaScript and Bower
+
+If you are going to work on the JavaScript for this site, you need to do the following:
+
+* Run `npm install -g bower` to install Bower.
+* Run `npm install -g grunt-cli` to install Grunt.
+* Run `npm install` in the directory to install other tools.
+* Run `bower install` to install dependencies.
+* Run `bundle install` to install additional dependencies. 
+
+After changing the JavaScript, run `grunt` to rebuild the minified JS.
+
+
