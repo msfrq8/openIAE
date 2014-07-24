@@ -4,7 +4,7 @@ layout: default
 
 ---
 
-### Structure Overview
+### Repository Structure
 
 __iae-global__ acts as the definitive public repository for architecture, design and code artifacts for the US General Services Administration (GSA) Integrated Award Environment (IAE). This repository is the initial release and contains limited information.
 
