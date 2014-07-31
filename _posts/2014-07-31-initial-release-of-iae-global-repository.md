@@ -4,7 +4,8 @@ title: Initial Release of the iae-global repository
 
 ---
 
-{post.title}
+{{ title }}
+{{ post.title }}
 
 The U.S. General Services Administration (GSA) Integrated Award Environment (IAE) is pleased to join the GitHub community with the IAE Global Repository. The repository will initially contain existing applications such as fpds.gov, fbo.gov, and sam.gov.
 
