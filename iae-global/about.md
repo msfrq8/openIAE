@@ -1,7 +1,7 @@
 ---
 layout: default
 title: About IAE
-nav: basics
+nav: about
 ---
 
 ### About IAE or This Resource
@@ -17,5 +17,14 @@ Example, etc.
 ##### Coming soon! 
 
 This is just the first of many steps in modernizing information about SAM and IAE. 
+
+This is another line to occupy space.
+
+
+This is another line to test line breaks.
+
+##### More line breaks 
+
+
 
 
