@@ -10,6 +10,8 @@ nav: repos
 
 
 ### List of All SAM Related Public Github Repositories
+
+
 The following list refers to repositories maintained by the SAM Transparency Initiative. 
 
 
@@ -18,19 +20,19 @@ The following list refers to repositories maintained by the SAM Transparency Ini
 
 
 
-[IAE Global Architecture Repo](https://github.com/SiloSmashers/iae-global)
+[IAE Global TOGAF Architecture Repo](https://github.com/SiloSmashers/iae-global)
 
 
-[Other Repo](https://github.com/SiloSmashers/Other)
+[API](https://github.com/GSA/api)
 
 
-[Other Repo](https://github.com/SiloSmashers/Other)
+[Data Services and Data](https://github.com/GSA/Data-Services)
 
 
-[Other Repo](https://github.com/SiloSmashers/Other)
+[Three Core with APIs Codebase](https://github.com/GSA/3Core-and-APIs)
 
 
-[Other Repo](https://github.com/SiloSmashers/Other)
+[SAM Subaward Reporting Codebase](https://github.com/GSA/Subaward-Reporting)
 
 
 
