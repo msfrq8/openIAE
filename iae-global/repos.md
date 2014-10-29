@@ -19,25 +19,20 @@ The following list refers to repositories maintained by the SAM Transparency Ini
 
 
 
++[IAE Global TOGAF Architecture Repo](https://github.com/SiloSmashers/iae-global)
 
-[IAE Global TOGAF Architecture Repo](https://github.com/SiloSmashers/iae-global)
++[API](https://github.com/GSA/api)
 
++[Data Services and Data](https://github.com/GSA/Data-Services)
 
-[API](https://github.com/GSA/api)
++[Three Core with APIs Codebase](https://github.com/GSA/3Core-and-APIs)
 
-
-[Data Services and Data](https://github.com/GSA/Data-Services)
-
-
-[Three Core with APIs Codebase](https://github.com/GSA/3Core-and-APIs)
-
-
-[SAM Subaward Reporting Codebase](https://github.com/GSA/Subaward-Reporting)
++[SAM Subaward Reporting Codebase](https://github.com/GSA/Subaward-Reporting)
 
 
 
+####[Sign Up for a Github Account](https://github.com/)
 
-Aditional Content
 
-End
+
 
