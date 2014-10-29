@@ -3,7 +3,7 @@ layout: default
 title: Repo Links
 nav: repos
 ---
-##### List of All SAM Related Public Github Repositories
+### List of All SAM Related Public Github Repositories
 
 [IAE Global Architecture Repo](https://github.com/SiloSmashers/iae-global)
 
