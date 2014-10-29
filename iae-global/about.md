@@ -17,5 +17,5 @@ Example, etc.
 ##### Coming soon! 
 
 This is just the first of many steps in modernizing information about SAM and IAE. 
-<body id="basics"></body>
+
 
