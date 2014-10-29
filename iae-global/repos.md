@@ -27,7 +27,7 @@ The following list refers to repositories maintained by the SAM Transparency Ini
 
 + [Three Core with APIs Codebase](https://github.com/GSA/3Core-and-APIs)
 
-+[SAM Subaward Reporting Codebase](https://github.com/GSA/Subaward-Reporting)
++ [SAM Subaward Reporting Codebase](https://github.com/GSA/Subaward-Reporting)
 
 
 
