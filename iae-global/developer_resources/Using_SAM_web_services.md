@@ -30,6 +30,7 @@ Here is what you need to get started:
 Test IDs:
 
 | ID Name | Password | Description | Examples of available data *| 
+|---|---|---|---|
 | SAMPublic | Contact: pamela.miller@gsa.gov | EM XML at the public level requires authentication. | includes; name, address, some POC information |
 | SAMFOUO | Contact: pamela.miller@gsa.gov | For Official Use Only | includes certain types of POC and hierarchy information. |
 | SAMSensitive | Contact: pamela.miller@gsa.gov | more secure data including banking information and MPIN. | 
@@ -41,6 +42,7 @@ Test IDs:
 Tools available:
 
 | Tool Name | Location | Description |
+|---|---|---|
 | Web Services tutorial | https://interact.gsa.gov | Documents how to build an Entity Management web service. |
 | Sample XML request/response | https://interact.gsa.gov | Included in the web services tutorial. Various sample request and response for Entity Management. |
 | Soap UI project | https://interact.gsa.gov | Project ready for import into Soap UI. (http://www.soapui.org/) |
