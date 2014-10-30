@@ -35,7 +35,7 @@ Test IDs:
 | SAMFOUO | Contact: pamela.miller@gsa.gov | For Official Use Only | includes certain types of POC and hierarchy information. |
 | SAMSensitive | Contact: pamela.miller@gsa.gov | more secure data including banking information and MPIN. |
 
-* For more details please refer to the SAM Web Services Mapping v1.0 
+*For more details please refer to the SAM Web Services Mapping v1.0 
 * A test id is not needed for the SAM Exclusions XML web service. There is no role or authentication requirement.
  
 
