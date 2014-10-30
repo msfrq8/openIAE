@@ -29,13 +29,13 @@ Here is what you need to get started:
 
 Test IDs:
 
-| ID Name | Password | Description | Examples of available data *| 
+| ID Name | Password | Description | Examples of available data*| 
 |---|---|---|---|
-| SAMPublic | Contact: pamela.miller@gsa.gov | EM XML at the public level requires authentication. | includes; name, address, some POC information |
+| SAMPublic | Contact: pamela.miller@gsa.gov | EM XML at the public level requires authentication. | includes: name, address, some POC information |
 | SAMFOUO | Contact: pamela.miller@gsa.gov | For Official Use Only | includes certain types of POC and hierarchy information. |
-| SAMSensitive | Contact: pamela.miller@gsa.gov | more secure data including banking information and MPIN. | 
-*- for more details please refer to the SAM Web Services Mapping v1.0 
+| SAMSensitive | Contact: pamela.miller@gsa.gov | more secure data including banking information and MPIN. |
 
+* For more details please refer to the SAM Web Services Mapping v1.0 
 * A test id is not needed for the SAM Exclusions XML web service. There is no role or authentication requirement.
  
 
