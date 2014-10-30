@@ -25,5 +25,4 @@ Here is what you need to get started:
 | Web Service Name | Endpoint / WSDL |
 |---|---|
 | SAM Entity Management XML | https://gw.test.sam.gov/SAMWS/1.0/Entity or https://test.sam.gov/SAMWS/1.0/Entity https://gw.sam.gov/SAMWS/1.0/Entity?wsdl |
-
 | SAM Exclusion XML | https://gw.test.sam.gov/SAMWS/1.0/ExclusionSearch https://gw.sam.gov/SAMWS/1.0/ExclusionSearch?wsdl |
