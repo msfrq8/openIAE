@@ -26,3 +26,29 @@ Here is what you need to get started:
 |---|---|
 | SAM Entity Management XML | https://gw.test.sam.gov/SAMWS/1.0/Entity or https://test.sam.gov/SAMWS/1.0/Entity https://gw.sam.gov/SAMWS/1.0/Entity?wsdl |
 | SAM Exclusion XML | https://gw.test.sam.gov/SAMWS/1.0/ExclusionSearch https://gw.sam.gov/SAMWS/1.0/ExclusionSearch?wsdl |
+
+Test IDs:
+
+| ID Name | Password | Description | Examples of available data *| 
+| SAMPublic | Contact: pamela.miller@gsa.gov | EM XML at the public level requires authentication. | includes; name, address, some POC information |
+| SAMFOUO | Contact: pamela.miller@gsa.gov | For Official Use Only | includes certain types of POC and hierarchy information. |
+| SAMSensitive | Contact: pamela.miller@gsa.gov | more secure data including banking information and MPIN. | 
+*- for more details please refer to the SAM Web Services Mapping v1.0 
+
+* A test id is not needed for the SAM Exclusions XML web service. There is no role or authentication requirement.
+ 
+
+Tools available:
+
+| Tool Name | Location | Description |
+| Web Services tutorial | https://interact.gsa.gov | Documents how to build an Entity Management web service. |
+| Sample XML request/response | https://interact.gsa.gov | Included in the web services tutorial. Various sample request and response for Entity Management. |
+| Soap UI project | https://interact.gsa.gov | Project ready for import into Soap UI. (http://www.soapui.org/) |
+| SAM Web Services documentation | https://interact.gsa.govon the left hand navigation under “Featured Content” | Contains the mappings for all 3 sensitivity levels |
+| SAM Functional Data Dictionary | https://interact.gsa.govon the left hand navigation under “Featured Content” |  |
+| Web Services Response Schema Documentation |  | Coming Soon! |
+
+If you have questions, please post them on https://interact.gsa.gov or contact Pamela.miller@gsa.gov .
+
+
+
