@@ -13,6 +13,7 @@ More Knowledge Base content or an index:
 
 1. Topic
   * Subtopic
+  * Subtopic 2
 2. Topic
 3. Topic
 4. Topic
