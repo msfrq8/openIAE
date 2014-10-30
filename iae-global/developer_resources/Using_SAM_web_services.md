@@ -21,14 +21,9 @@ Quick Guide to get started using SAM Web Services:
 The SAM test environment is completely separate from the SAM production environment so separate IDs are needed.  We have created generic IDs with independent passwords that are completely separate from production credentials. The data, above public access, is masked but usable for testing in the environment.
 
 Here is what you need to get started:
-Web Service Name | Endpoint / WSDL
----|---
-SAM Entity Management XML | https://gw.test.sam.gov/SAMWS/1.0/Entity or
 
-https://test.sam.gov/SAMWS/1.0/Entity
+| Web Service Name | Endpoint / WSDL |
+|---|---|
+| SAM Entity Management XML | https://gw.test.sam.gov/SAMWS/1.0/Entity or https://test.sam.gov/SAMWS/1.0/Entity https://gw.sam.gov/SAMWS/1.0/Entity?wsdl |
 
-https://gw.sam.gov/SAMWS/1.0/Entity?wsdl 
-
-SAM Exclusion XML | https://gw.test.sam.gov/SAMWS/1.0/ExclusionSearch
-
-https://gw.sam.gov/SAMWS/1.0/ExclusionSearch?wsdl
+| SAM Exclusion XML | https://gw.test.sam.gov/SAMWS/1.0/ExclusionSearch https://gw.sam.gov/SAMWS/1.0/ExclusionSearch?wsdl |
