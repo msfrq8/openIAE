@@ -1,6 +1,6 @@
 ---
 published: true
-layout: dev_resources
+layout: blog
 navigation: blog
 ---
 
