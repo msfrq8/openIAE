@@ -3,10 +3,7 @@ layout: dev_resources
 title: Using the SAM API
 nav: using_sam_api
 ---
-
 ### Using the SAM API
-
-### API basics
 
 The SAM API is a GET API which has one operation. The operation will retrieve an entity's public information. Its endpoint is ```https://api.data.gov/sam/v1/registrations/```. 
 
