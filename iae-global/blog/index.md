@@ -1,7 +1,7 @@
 ---
 published: true
-layout: blog
-
+layout: dev_resources
+navigation: blog
 ---
 
 <ul>
