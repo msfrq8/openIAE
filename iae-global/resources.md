@@ -4,7 +4,7 @@ title: Resources
 nav: resources
 ---
 
-###SAM Resources
+###IAE Resources
 
 [GSA Interact](https://interact.gsa.gov)
 
