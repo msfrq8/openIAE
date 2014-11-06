@@ -9,6 +9,7 @@ title: Access SAM Data
 SAM provides a number of roles to fit the needs of users based on mission requirements and need-to-know.  For those users needing public information (governed by the Freedom of Information Act (FOIA)), there is no need to even have a SAM account to use the website.  Others needing more sensitive information to use in their Federal government systems, such as Taxpayer Identification Number (TIN) or registrant banking information will need to submit a data access request on-line in SAM to gain the required role.
 
 #####SAM Role Definitions
+
 | SAM Role | Definitions |
 |---|---|
 | Public / No SAM Account | A user that has not created a SAM user account.  Public access only.|
