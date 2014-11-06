@@ -12,10 +12,12 @@ SAM provides a number of roles to fit the needs of users based on mission requir
 | SAM Role | Definitions |
 |---|---|
 | Public / No SAM Account | A user that has not created a SAM user account.  Public access only.|
-| Authenticated User | A user that has created and activated a SAM individual or system user account, but has not requested any specific data access role. 
-Note: Federal government users who create their SAM user account using their Federal government e-mail address automatically have the ability to view For Official User Only (FOUO) information on the SAM.gov website including those registrants who opted out of public search, registrant’s TIN, and the FOUO POCs. To see FOUO information, Federal government users need to log in before searching. |
-| FOUO Entity Management Data Viewer | A user that has access to For Official Use Only (FOUO) information on the SAM.gov website, extracts, and web services. 
-FOUO information contained in the extracts and web services includes FOUO POCs, D&B Linkage, and D&B Monitoring.|
+| Authenticated User | A user that has created and activated a SAM individual or system user account, but has not requested any specific data access role. <br> Note: Federal government users who create their SAM user account using their Federal government e-mail address automatically have the ability to view For Official User Only (FOUO) information on the SAM.gov website including those registrants who opted out of public search, registrant’s TIN, and the FOUO POCs. To see FOUO information, Federal government users need to log in before searching. |
+| FOUO Entity Management Data Viewer | A user that has access to For Official Use Only (FOUO) information on the SAM.gov website, extracts, and web services. <br> FOUO information contained in the extracts and web services includes FOUO POCs, D&B Linkage, and D&B Monitoring.|
+| Sensitive Entity Management Data Viewer | A user that has access to sensitive information on the SAM.gov website, extracts, and web services. <br>Sensitive information contained in the extracts and web services includes all FOUO information, plus the TIN (which is either an Employer Identification Number (EIN) or Social Security Number (SSN)), the U.S. banking information for Electronic Funds Transfer (EFT), and the MPIN.|
+
+
+
 
 
 
