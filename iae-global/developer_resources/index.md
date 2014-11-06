@@ -3,12 +3,8 @@ layout: dev_resources
 title: Home
 nav: dev_resources_index
 ---
-
-### Developer Resources Home
-
-Welcome to the IAE Developer Resources area of the IAE Information Microsite!
-
 #### Developer Resources Overview
+Welcome to the IAE Developer Resources area of the IAE Information Microsite!
 
 #### Using the SAM DAta Extracts
 Need to create new page(s) that feature instructions/text on use of Web services and host other documentation, including WSDL files
