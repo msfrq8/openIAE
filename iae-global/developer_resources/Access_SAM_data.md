@@ -17,7 +17,7 @@ SAM provides a number of roles to fit the needs of users based on mission requir
 | FOUO Entity Management Data Viewer | A user that has access to For Official Use Only (FOUO) information on the SAM.gov website, extracts, and web services. <br> FOUO information contained in the extracts and web services includes FOUO POCs, D&B Linkage, and D&B Monitoring.|
 | Sensitive Entity Management Data Viewer | A user that has access to sensitive information on the SAM.gov website, extracts, and web services. <br>Sensitive information contained in the extracts and web services includes all FOUO information, plus the TIN (which is either an Employer Identification Number (EIN) or Social Security Number (SSN)), the U.S. banking information for Electronic Funds Transfer (EFT), and the MPIN.|
 
-SAM Role-to-Access Matrix
+#####SAM Role-to-Access Matrix
 
 | SAM Role | SAM Extract | SAM Web Service |
 |---|---|---|
