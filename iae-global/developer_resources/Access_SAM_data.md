@@ -67,10 +67,31 @@ From here, you must complete the Approver Information and Justification Reason s
 **Government Security Official** – Due to the information SAM provides, all users must undergo a Security Training and Awareness as mandated by their agencies.  The security official will attest that the requestor has taken and passed this training.
 
 
-![Image JustificationReason](../../images/DAR-Menu6.png)
+![Image of Menu6](../../images/DAR-Menu6.png)
 
 
 **Justification Reason** – Please provide a concise rationale for requiring higher sensitivity data. Reference the specific non-public data elements you need and describe the Federal mission supported. Keep the explanation under 500 characters total, including spaces.
+
+![Image of Menu7](../../images/DAR-Menu7.png)
+
+Before clicking the SUBMIT button, please notice the link above (Data Access Agreement Form).  This is the SAM Non-Disclosure Agreement and System Authorization Access Request (SAAR).  Please download this PDF and save it.
+
+
+#### The Approval Process
+
+
+Once you click SUBMIT, the approval process begins.  The request must be approved by the following in order:
+
+- Government Supervisor/Sponsor
+- Government Security Officer
+- GSA
+- 
+As soon as you click **SUBMIT** the Government Sponsor/Supervisor will get an automated email from SAM requesting a decision.  They must click the link in the email, provide a justification (under 500 characters), and click **SUBMIT**.  As soon that approver submits, an email goes to the Security Officer for approval.  To expedite the process, please give these approvers notice to expect an email from SAM in their mailbox requesting a decision.
+
+GSA cannot approve your request until the other two approvals have been completed. Once GSA has rendered final approval, you will receive an email stating that the role has been granted.
+
+
+[On System Account POCs](SAM-POCs.md)
 
 
 
