@@ -6,8 +6,7 @@ nav: communicate
 
 ### IAE Resources and How to Contact Us
 
-####
-To Report Issues with IAE Code
+#### To Report Issues with IAE Code
 
 In order to report issues with SAM API code, visit [here](https://github.com/GSA/sam_api/issues).
 
