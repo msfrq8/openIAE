@@ -40,16 +40,23 @@ For security reasons, SAM administrators may not alter system account informatio
 
 1. Log into SAM.gov.
 2. In the MY SAM menu, select Data Access > Individual Data Access Request
+
 ![Image of Menu1](../../images/DAR-Menu1.png)
+
 3. In the Select Data page, scroll down.  Select the Data Access Role and User Type, and then click NEXT.
+
 ![Image of Menu2](../../images/DAR-Menu2.png)
+
 
 Locating the Data Access Request for a System Account
 Log into SAM.gov
 In the MY SAM menu select System Data Access > System Data Access Request
+
 ![Image of Menu3](../../images/DAR-Menu3.png)
 
+
 In the Select Data page, scroll down.  Select the Data Access Role and then click NEXT.
+
 ![Image of Menu4](../../images/DAR-Menu4.png)
 
 ##### Completing the Data Access Request form
@@ -59,7 +66,9 @@ From here, you must complete the Approver Information and Justification Reason s
 **Government Sponsor/Supervisor** – A Federal government official must attest that the requestor requires the higher sensitive data to perform their duties and has the necessary permissions and clearances to do so.
 **Government Security Official** – Due to the information SAM provides, all users must undergo a Security Training and Awareness as mandated by their agencies.  The security official will attest that the requestor has taken and passed this training.
 
+
 ![Image JustificationReason](../../images/DAR-Menu6.png)
+
 
 **Justification Reason** – Please provide a concise rationale for requiring higher sensitivity data. Reference the specific non-public data elements you need and describe the Federal mission supported. Keep the explanation under 500 characters total, including spaces.
 
