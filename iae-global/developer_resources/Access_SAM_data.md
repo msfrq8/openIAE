@@ -38,6 +38,11 @@ For security reasons, SAM administrators may not alter system account informatio
 
 #### Locating the Data Access Request for an Individual Account
 
+1. Log into SAM.gov.
+2. In the MY SAM menu select Data Access > Individual Data Access Request
+![Image of Menu1](https://.png)
+
+
 
 
 
