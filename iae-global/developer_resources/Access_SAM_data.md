@@ -41,7 +41,10 @@ For security reasons, SAM administrators may not alter system account informatio
 1. Log into SAM.gov.
 2. In the MY SAM menu, select Data Access > Individual Data Access Request
 
+
+
 ![Image of Menu1](../../images/DAR-Menu1.png)
+
 
 3. In the Select Data page, scroll down.  Select the Data Access Role and User Type, and then click NEXT.
 
