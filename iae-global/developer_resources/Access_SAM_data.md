@@ -85,7 +85,8 @@ Once you click SUBMIT, the approval process begins.  The request must be approve
 - Government Supervisor/Sponsor
 - Government Security Officer
 - GSA
-- 
+
+
 As soon as you click **SUBMIT** the Government Sponsor/Supervisor will get an automated email from SAM requesting a decision.  They must click the link in the email, provide a justification (under 500 characters), and click **SUBMIT**.  As soon that approver submits, an email goes to the Security Officer for approval.  To expedite the process, please give these approvers notice to expect an email from SAM in their mailbox requesting a decision.
 
 GSA cannot approve your request until the other two approvals have been completed. Once GSA has rendered final approval, you will receive an email stating that the role has been granted.
