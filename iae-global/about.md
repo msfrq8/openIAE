@@ -6,6 +6,8 @@ nav: about
 
 ### About IAE
 
+The Integrated Award Environment (IAE) is a Presidential E-Government initiative managed by the General Services Administration (GSA). The IAE uses innovative processes and technologies to improve systems and operations for those who award, administer, or receive federal financial assistance (i.e., grants, loans), contracts, and intergovernmental transactions.
+
 ##### Governance and Stakeholder Outreach 
 
 ##### IAE Transformation Activities
@@ -18,11 +20,11 @@ The IAE Vision is to continue to evolve and integrate the existing shared portfo
 
 
 The IAE Values include employing agile business and systems processes in order to:
-   Drive continuous innovation and improvement;        
-   Serve as active and engaged stewards of federal award data;         
-   Enable collaboration across the federal government;
-   Protect the quality and integrity of the data; and
-   Embrace openness and transparency."
+   * Drive continuous innovation and improvement;        
+   * Serve as active and engaged stewards of federal award data;         
+   * Enable collaboration across the federal government;
+   * Protect the quality and integrity of the data; and
+   * Embrace openness and transparency."
 
 
 
