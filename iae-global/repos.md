@@ -15,9 +15,7 @@ nav: repos
 The following is a list of existing and proposed Github repositories maintained by the IAE Transparency Initiative. 
 
 
-
  - [IAE Global TOGAF Architecture Repo](https://github.com/GSA/IAE-Architecture)
-
  - [SAM API](https://github.com/GSA/sam_api)
 
 #####Coming Soon
