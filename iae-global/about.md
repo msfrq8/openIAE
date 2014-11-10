@@ -8,11 +8,8 @@ nav: about
 
 The Integrated Award Environment (IAE) is a Presidential E-Government initiative managed by the General Services Administration (GSA). The IAE uses innovative processes and technologies to improve systems and operations for those who award, administer, or receive federal financial assistance (i.e., grants, loans), contracts, and intergovernmental transactions.
 
-##### Governance and Stakeholder Outreach 
 
-##### IAE Transformation Activities
-
-##### Mission, Vision, Values, Business/Technical Collaboration Principles
+#### Mission, Vision, Values, Business/Technical Collaboration Principles
 
 "The IAE Mission is to support a common, secure business environment which facilitates and supports cost-effective acquisition of, and payment for, goods and services; effective management of federal acquisition and assistance awards; and consistent transparency into federal acquisition and assistance awards.
 
@@ -55,6 +52,7 @@ __IAE Change Control Board (CCB)__	"The CCB is the decision-making body for prop
 Administered by GSA/IAE, the CCB is comprised of voting representatives from each of the CFO Act federal agencies. It is responsible for making decisions about IAE that improve award management for acquisition, grants, loans and life-cycle performance across the federal space. 
 
 The CCB affects integration of IAE across functional areas and meets statutory and regulatory requirements."
+
 
 ####IAE Transformation Activities	
 SAM refocused, Common Services, etc.; timeline of where IAE is headed
