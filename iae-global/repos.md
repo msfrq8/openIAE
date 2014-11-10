@@ -12,22 +12,23 @@ nav: repos
 ### List of All SAM Related Public Github Repositories
 
 
-The following list refers to repositories maintained by the SAM Transparency Initiative. 
+The following is a list of existing and proposed Github repositories maintained by the IAE Transparency Initiative. 
 
 
 
 
 
++ [IAE Global TOGAF Architecture Repo](https://github.com/GSA/IAE-Architecture)
 
-+ [IAE Global TOGAF Architecture Repo](https://github.com/SiloSmashers/iae-global)
++ [SAM API](https://github.com/GSA/sam_api)
 
-+ [API](https://github.com/GSA/api)
+#####Coming Soon
 
-+ [Data Services and Data](https://github.com/GSA/Data-Services)
++ [Data Services and Data](https://#)
 
-+ [Three Core with APIs Codebase](https://github.com/GSA/3Core-and-APIs)
++ [Three Core with APIs Codebase](#)
 
-+ [SAM Subaward Reporting Codebase](https://github.com/GSA/Subaward-Reporting)
++ [SAM Subaward Reporting Codebase](https://#)
 
 
 
