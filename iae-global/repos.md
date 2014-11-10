@@ -16,23 +16,21 @@ The following is a list of existing and proposed Github repositories maintained 
 
 
 
+ - [IAE Global TOGAF Architecture Repo](https://github.com/GSA/IAE-Architecture)
 
-
-+ [IAE Global TOGAF Architecture Repo](https://github.com/GSA/IAE-Architecture)
-
-+ [SAM API](https://github.com/GSA/sam_api)
+ - [SAM API](https://github.com/GSA/sam_api)
 
 #####Coming Soon
 
-+ [Data Services and Data](https://#)
+ - [Data Services and Data](https://#)
 
-+ [Three Core with APIs Codebase](#)
+ - [Three Core with APIs Codebase](#)
 
-+ [SAM Subaward Reporting Codebase](https://#)
+ - [SAM Subaward Reporting Codebase](https://#)
 
 
 
-####[Sign Up for a Github Account](https://github.com/)
+#####[Sign Up for a Github Account](https://github.com/)
 
 
 
