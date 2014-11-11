@@ -543,6 +543,7 @@ ul.repo-list.no-padding {
 
 .main-content {
     margin: 1em .75em;
+    min-height: 450px;
 }
 
 .main-content ul, ol {
