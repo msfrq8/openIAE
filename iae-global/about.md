@@ -62,11 +62,6 @@ Administered by GSA/IAE, the CCB is comprised of voting representatives from eac
 
 The CCB affects integration of IAE across functional areas and meets statutory and regulatory requirements."
 
-
-####IAE Transformation Activities	
-SAM refocused, Common Services, etc.; timeline of where IAE is headed
-
-
 #### <a name="Principles"></a>IAE Principles	
 IAE operates under a set of principles to ensure our work is focused, productive, and mission-driven.
 The IAE Architectural Principles	"In making decisions about contracting, business processes, architecture, and other planning, IAE and its partners will consider our Architectural Principles.
