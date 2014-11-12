@@ -8,8 +8,17 @@ nav: about
 
 The Integrated Award Environment (IAE) is a Presidential E-Government initiative managed by the General Services Administration (GSA). The IAE uses innovative processes and technologies to improve systems and operations for those who award, administer, or receive federal financial assistance (i.e., grants, loans), contracts, and intergovernmental transactions.
 
+[Mission, Vision, Values](#MVV)
 
-#### Mission, Vision, Values, Business/Technical Collaboration Principles
+[IAE Systems](#IAE_Systems)
+
+[Governance](#Governance)
+
+[IAE Principles](#Principles)
+
+
+
+####<a name="MVV"></a>Mission, Vision, Values, Business/Technical Collaboration Principles
 
 "The IAE Mission is to support a common, secure business environment which facilitates and supports cost-effective acquisition of, and payment for, goods and services; effective management of federal acquisition and assistance awards; and consistent transparency into federal acquisition and assistance awards.
 
@@ -23,11 +32,11 @@ The IAE Values include employing agile business and systems processes in order t
    * Protect the quality and integrity of the data; and
    * Embrace openness and transparency."
 
-#### List of Systems
+#### <a name="IAE_Systems"></a>IAE Systems
 
 Will use spoke graphic here.
 
-#### Governance 
+#### <a name="Governance"></a>Governance 
 The following bodies provide overall direction and guidance and coordinating support to facilitate the mission of the IAE including:
 
 __Award Committee for E-Government (ACE)__
@@ -58,7 +67,7 @@ The CCB affects integration of IAE across functional areas and meets statutory a
 SAM refocused, Common Services, etc.; timeline of where IAE is headed
 
 
-####IAE Principles	
+#### <a name="Principles"></a>IAE Principles	
 IAE operates under a set of principles to ensure our work is focused, productive, and mission-driven.
 The IAE Architectural Principles	"In making decisions about contracting, business processes, architecture, and other planning, IAE and its partners will consider our Architectural Principles.
 
@@ -66,7 +75,7 @@ These principles serve as guideposts for decision-making at all levels; everythi
 
 It is important to recognize that these Principles are not hard and fast rules - in fact they are frequently in tension with each other. The best technical solution for IAE will balance these Principles for the benefit of the government and IAE system users.
 
-#####The Principles:
+#####Architecture Principles:
  - IAE Must be Open
  - We Must Always Treat Data as an Asset
  - We Will Use Continuous Improvement to Drive Innovation
