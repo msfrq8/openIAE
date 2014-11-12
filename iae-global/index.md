@@ -6,25 +6,24 @@ layout: default
 
 ### Overview
 
-<p>The IAE Global Repository acts as the definitive public repository for architecture, design and code artifacts for the US General Services Administration (GSA) Integrated Award Environment (IAE). </p>
+<p>Welcome to the IAE Public Space! This site is the home of documents, code, and information related to the U.S. General Service Administration (GSA) Integrated Award Environment’s (IAE) transparency work. The focus of this work is to increase transparency while improving systems and functions for the acquisition and assistance communities and for our business partners.</p>
 <p>This repository is the initial release and contains limited information. As the development process progresses, design and code will be added on a rolling basis.</p>
 
-### Contacting IAE
-General information about IAE is available at gsa.gov. The IAE Program Office communicates regularly through the [IAE Industry Community](https://interact.gsa.gov/group/integrated-award-environment-iae-industry-community) on the GSA Interact site. General questions concerning the IAE Program can be directed to iaeoutreach@gsa.gov.
 
 ### Organization
-This repository is organized into two main areas.
- * Material describing the As-Is IAE systems: Material in this section refers to the existing applications, including fpds.gov, fbo.gov, and sam.gov
- * Material describing the To-Be environment: Material in this section includes the architecture, design, and artifacts required to create a working non-production IAE application
+The IAE Public Space is organized into five content areas:
 
- 
-#### Architecture
-The As-Is and To-Be archirecture materials are organized in a TOGAF-based structure,
-* Business Architecture
-* Data Architecture
-* Application Architecture
-* System Architecture
-* Vision
- 
-#### Design and Code
-In addition to the architecture materials, the repository contains placeholders for the design and code. These components will be populated as the development process progresses.
+#### Using the IAE Public Space
+This page will explain the different ways you can benefit from the IAE Public Space as well as how you can provide feedback to the documentation posted on our site.
+
+#### About IAE
+For those unfamiliar with the Integrated Award Environment, this page will detail the mission, scope, governance, and principles of IAE.
+
+####Repositories 
+This page contains links to all of the existing and proposed GitHub repositories maintained by the IAE Transparency Initiative.
+
+####Developer Resources 
+The Developer Resources page will provide data and resources that you can leverage to develop applications and build your own environments.
+
+#### IAE Resources and Contacts
+Information on IAE’s other websites and resources can be found here 
