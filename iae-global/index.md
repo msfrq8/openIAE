@@ -13,17 +13,12 @@ layout: default
 ### Organization
 The IAE Public Space is organized into five content areas:
 
-#### Using the IAE Public Space
-This page will explain the different ways you can benefit from the IAE Public Space as well as how you can provide feedback to the documentation posted on our site.
+__Using the IAE Public Space__  This page will explain the different ways you can benefit from the IAE Public Space as well as how you can provide feedback to the documentation posted on our site.
 
-#### About IAE
-For those unfamiliar with the Integrated Award Environment, this page will detail the mission, scope, governance, and principles of IAE.
+__About IAE__  For those unfamiliar with the Integrated Award Environment, this page will detail the mission, scope, governance, and principles of IAE.
 
-####Repositories 
-This page contains links to all of the existing and proposed GitHub repositories maintained by the IAE Transparency Initiative.
+__Repositories__  This page contains links to all of the existing and proposed GitHub repositories maintained by the IAE Transparency Initiative.
 
-####Developer Resources 
-The Developer Resources page will provide data and resources that you can leverage to develop applications and build your own environments.
+__Developer Resources__  The Developer Resources page will provide data and resources that you can leverage to develop applications and build your own environments.
 
-#### IAE Resources and Contacts
-Information on IAE’s other websites and resources can be found here 
+__IAE Resources and Contacts__  Information on IAE’s other websites and resources can be found here 
