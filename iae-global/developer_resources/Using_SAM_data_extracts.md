@@ -9,7 +9,9 @@ nav: using_SAM_data_extract
 
 ####List of SAM Data Extracts Guidance Resources
 
-New!! [Exclusions Extracts User Guide](https://www.sam.gov/sam/transcript/SAM_Exclusions_Extract_User_Guide.pdf)
+__New!!__ 
+
+[Exclusions Extracts User Guide](https://www.sam.gov/sam/transcript/SAM_Exclusions_Extract_User_Guide.pdf)
 
 [Resource1](resource.com)
 
