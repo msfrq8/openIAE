@@ -42,6 +42,7 @@ For security reasons, SAM administrators may not alter system account informatio
 2. In the MY SAM menu, select Data Access > Individual Data Access Request
 
 
+<img src="../../images/DAR-Menu1.png" class="markdown-image">
 
 ![Image of Menu1](../../images/DAR-Menu1.png){.markdown-image}
 
