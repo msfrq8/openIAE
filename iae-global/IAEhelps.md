@@ -13,4 +13,4 @@ If you are looking for other resources for the Integrated Award Environment or o
 
 
 #### How Can I Contribute to IAE's Public Space?
-IAE encourages visitors to the IAE Public Space to review our documentation and code and log an issue or make comments on the content. If you are interested in contributing through providing feedback in this way, please enter an issue in this site's Github repository [Issues Area](https://github.com/SiloSmashers/iae-global/issues). 
+IAE encourages visitors to the IAE Public Space to review our documentation and code and log an issue or make comments on the content. If you are interested in contributing through providing feedback in this way, please enter an issue in this site's Github repository [Issues Area](https://github.com/SiloSmashers/iae-global/issues), or visit issues related to IAE code and architecture repositories, [listed here](http://silosmashers.github.io/iae-global/iae-global/repos.html). 
