@@ -1176,6 +1176,6 @@ del {
 
 
 /* Markdown specific styles */
-.markdown-image {
-	width=50px;
+.markdown-image-inline {
+	display: block;
 }

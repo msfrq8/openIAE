@@ -42,41 +42,39 @@ For security reasons, SAM administrators may not alter system account informatio
 2. In the MY SAM menu, select Data Access > Individual Data Access Request
 
 
-<img src="../../images/DAR-Menu1.png" class="markdown-image">
+<img src="../../images/DAR-Menu1.png" class="markdown-image-inline">
 
-![Image of Menu1](../../images/DAR-Menu1.png){.markdown-image}
 
 
 3. In the Select Data page, scroll down.  Select the Data Access Role and User Type, and then click NEXT.
 
-![Image of Menu2](../../images/DAR-Menu2.png)
+<img src="../../images/DAR-Menu2.png" class="markdown-image-inline">
 
 
 Locating the Data Access Request for a System Account
 Log into SAM.gov
 In the MY SAM menu select System Data Access > System Data Access Request
 
-![Image of Menu3](../../images/DAR-Menu3.png)
+<img src="../../images/DAR-Menu3.png" class="markdown-image-inline">
 
 
 In the Select Data page, scroll down.  Select the Data Access Role and then click NEXT.
 
-![Image of Menu4](../../images/DAR-Menu4.png)
+<img src="../../images/DAR-Menu4.png" class="markdown-image-inline">
 
 ##### Completing the Data Access Request form
 From here, you must complete the Approver Information and Justification Reason sections.  This process is only a few minutes if you have the information ready.
-![Image of Menu5](../../images/DAR-Menu5.png)
+<img src="../../images/DAR-Menu5.png" class="markdown-image-inline">
 
 **Government Sponsor/Supervisor** – A Federal government official must attest that the requestor requires the higher sensitive data to perform their duties and has the necessary permissions and clearances to do so.
 **Government Security Official** – Due to the information SAM provides, all users must undergo a Security Training and Awareness as mandated by their agencies.  The security official will attest that the requestor has taken and passed this training.
 
-
-![Image of Menu6](../../images/DAR-Menu6.png)
+<img src="../../images/DAR-Menu6.png" class="markdown-image-inline">
 
 
 **Justification Reason** – Please provide a concise rationale for requiring higher sensitivity data. Reference the specific non-public data elements you need and describe the Federal mission supported. Keep the explanation under 500 characters total, including spaces.
 
-![Image of Menu7](../../images/DAR-Menu7.png)
+<img src="../../images/DAR-Menu7.png" class="markdown-image-inline">
 
 Before clicking the SUBMIT button, please notice the link above (Data Access Agreement Form).  This is the SAM Non-Disclosure Agreement and System Authorization Access Request (SAAR).  Please download this PDF and save it.
 
