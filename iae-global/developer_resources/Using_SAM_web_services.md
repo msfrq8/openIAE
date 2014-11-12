@@ -33,14 +33,13 @@ Tools available:
 
 | Tool Name | Location | Description |
 |---|---|---|
-| Web Services tutorial | https://interact.gsa.gov | Documents how to build an Entity Management web service. |
+| Web Services tutorial | https://github.com/gsa/IAE-Architecture/etc | Documents how to build an Entity Management web service. |
 | Sample XML request/response | https://interact.gsa.gov | Included in the web services tutorial. Various sample request and response for Entity Management. |
 | Soap UI project | https://interact.gsa.gov | Project ready for import into Soap UI. (http://www.soapui.org/) |
-| SAM Web Services documentation | https://interact.gsa.govon the left hand navigation under “Featured Content” | Contains the mappings for all 3 sensitivity levels |
-| SAM Functional Data Dictionary | https://interact.gsa.govon the left hand navigation under “Featured Content” |  |
+| SAM Functional Data Dictionary | https://interact.gsa.gov on the left hand navigation under “Featured Content” |  |
 | Web Services Response Schema Documentation |  | Coming Soon! |
 
-If you have questions, please post them on https://interact.gsa.gov or contact Pamela.miller@gsa.gov .
+If you have questions, please post them to (Issues section of this pages site repo url).
 
 
 
