@@ -1173,3 +1173,9 @@ del {
 .expandable-hidden {
   display: none;
 }
+
+
+/* Markdown specific styles */
+.markdown-image {
+	width=50px;
+}

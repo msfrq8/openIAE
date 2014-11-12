@@ -43,7 +43,7 @@ For security reasons, SAM administrators may not alter system account informatio
 
 
 
-![Image of Menu1](../../images/DAR-Menu1.png)
+![Image of Menu1](../../images/DAR-Menu1.png){.markdown-image}
 
 
 3. In the Select Data page, scroll down.  Select the Data Access Role and User Type, and then click NEXT.
