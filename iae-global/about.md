@@ -35,7 +35,7 @@ The IAE Collaboration Principles:
 
 ####IAE Systems
 
-<div id="container">
+<div id="container" class="aligncenter">
     <img src="../images/IAESystems.png" class="markdown-image-inline" alt="" />
 </div>
 
