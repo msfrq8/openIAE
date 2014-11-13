@@ -1181,3 +1181,8 @@ del {
 	float: none;
 	margin-left:20%;
 }
+.markdown-imagecenter {
+    display:inline-block;
+    margin-left:auto; 
+    margin-right:auto;
+}
