@@ -1177,5 +1177,6 @@ del {
 
 /* Markdown specific styles */
 .markdown-image-inline {
-	display: block;
+	float:none;
+	margin-left: 20%;
 }
