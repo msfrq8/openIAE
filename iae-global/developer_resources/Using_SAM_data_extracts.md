@@ -10,10 +10,10 @@ Tools available:
 
 | Tool Name | Location | Description |
 |---|---|---|
-| SAM Data Extracts Mapping | https://github.com/gsa/IAE-Architecture/etc | Description of field mappings, data types, etc. |
+| SAM Data Extracts Mappings | https://github.com/GSA/IAE-Architecture/tree/master/as-is/tech-docs/SAMWebServicesExtractsMappingsv1.0 | Description of field mappings, data types, etc. |
 | Guide to SFTP Download | https://interact.gsa.gov | Instruction guide on how to download SAM extract files.|
-| Sample Files | https://interact.gsa.gov | Sample files at all data access levels |
+| Sample Files | https://github.com/GSA/IAE-Architecture/tree/master/as-is/tech-docs/Sample%20Extract%20Files | Sample files at all data access levels |
 | SAM Functional Data Dictionary | https://interact.gsa.gov on the left hand navigation under “Featured Content” |   |
 
 
-If you have questions, please post them to (Issues section of this pages site repo url).
+If you have questions, please post them to this site's [Repo Issues](https://github.com/GSA/IAE-Architecture/issues).
