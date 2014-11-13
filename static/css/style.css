@@ -1168,6 +1168,7 @@ del {
 
 .open .expandable-button:before {
   content: "\f056";
+}
 
 /* custom class as .hidden is already used in the guide */
 .expandable-hidden {
@@ -1177,6 +1178,6 @@ del {
 
 /* Markdown specific styles */
 .markdown-image-inline {
-	float:none;
-	margin-left: 20%;
+	float: none;
+	margin-left:20%;
 }
