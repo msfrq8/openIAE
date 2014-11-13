@@ -34,8 +34,9 @@ The IAE Collaboration Principles:
  - We Are Empowered and Forthcoming
 
 ####IAE Systems
-<img src="../images/IAESystems.png" style="float:center" class="markdown-image-inline" alt="" />
-
+<div class="container">
+<img src="../images/IAESystems.png" style="float:center" class="markdown-imagecenter" alt="" />
+</div>
 ####IAE Mission
 
 IAE MISSION
