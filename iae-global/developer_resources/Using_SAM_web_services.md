@@ -33,13 +33,13 @@ Tools available:
 
 | Tool Name | Location | Description |
 |---|---|---|
-| Web Services tutorial | https://github.com/gsa/IAE-Architecture/etc | Documents how to build an Entity Management web service. |
+| Web Services tutorial | https://github.com/GSA/IAE-Architecture/tree/master/as-is/tech-docs/SAM | Documents how to build an Entity Management web service. |
 | Sample XML request/response | https://interact.gsa.gov | Included in the web services tutorial. Various sample request and response for Entity Management. |
 | Soap UI project | https://interact.gsa.gov | Project ready for import into Soap UI. (http://www.soapui.org/) |
-| SAM Functional Data Dictionary | https://interact.gsa.gov on the left hand navigation under “Featured Content” |  |
+| SAM Functional Data Dictionary | https://github.com/GSA/IAE-Architecture/blob/master/as-is/tech-docs/SAM/SAM%20Functional%20Data%20Dictionary%20v4.0.pdf |  |
 | Web Services Response Schema Documentation |  | Coming Soon! |
 
-If you have questions, please post them to (Issues section of this pages site repo url).
+If you have questions, please post them to [IAE Transparency Issues](https://github.com/GSA/IAE-Architecture/issues).
 
 
 
