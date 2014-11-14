@@ -37,8 +37,10 @@ The IAE Collaboration Principles:
 <div class="container">
 <img src="../images/IAESystems.png" style="float:center" class="markdown-imagecenter" alt="" />
 </div>
+
 ####IAE Mission
 
 IAE MISSION
 The IAE Mission is to support a common, secure business environment which facilitates and supports cost-effective acquisition of, and payment for, goods and services; effective management of federal acquisition and assistance awards; and consistent transparency into federal acquisition and assistance awards.
-For more information about IAE, including governance structure, please visit gsa.gov/iae.
+For more information about IAE, including governance structure, please visit [gsa.gov/iae](www.gsa.gov/iae).
+
