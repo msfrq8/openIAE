@@ -5,33 +5,30 @@ nav: communicate
 ---
 
 ### IAE Resources and How to Contact Us
-If the IAE Public Space does not contain the information you are looking for, please explore IAE's other resources:
 
+If the IAE Public Space does not contain the information you are looking for, please contact us or explore IAE’s other resources.
 
-####How to Communicate with IAE
-More information about the IAE and the systems we manage is available at GSA.gov/IAE <HYPERLINK> and in our online industry collaboration community on Interact <HYPERLINK>. You can also email IAEOutreach@gsa.gov with specific inquiries.
+#### How to Contact IAE
 
+More information about the IAE and the systems we manage is available at GSA.gov/IAE and in our online industry collaboration community on Interact. 
 
+You can also go to the [IAE Transparency Issues Repository](https://github.com/GSA/IAE-Architecture/issues) in Github and, after signing in to Github, click on New Issue to enter specific inquiries.
 
+#### IAE Systems and Resources
 
-####Federal Service Desk (FSD)	
-Assistance with SAM, CFDA, eSRS, FBO, and FSRS can be found at the Federal Service Desk <HYPERLINK>. 
+ - System for Award Management (SAM): Entity registration and management
+ - Past Performance Information Retrieval System (PPIRS): Single source for contractor performance information
+ - Contractor Performance Assessment Reporting System (CPARS): Hosts applications used to document contractor and grantee performance information
+ - Federal Awardee Performance and Integrity Information System (FAPIIS): Contains government-entered records on contractor performance, including past performance evaluations and suspensions and debarments
+ - Catalog of Federal Domestic Assistance (CFDA): Full listing of Federal assistance programs, projects, services, and activities
+ - Electronic Subcontracting Reporting System (eSRS): Online tool to streamline the process of reporting on subcontracting plans and provide agencies with access to data on subcontracting performance
+ - Federal Business Opportunities (FedBizOpps): Provides information on business opportunities for the Federal government
+ - Federal Funding Accountability and Transparency Act Subaward Reporting System (FSRS): System designed to collect subcontract award information in compliance with the FFATA
+ - Federal Procurement Data System (FPDS): Source for government-wide contract award data
+ - Wage Determination Online (WDOL): Information for federal contracting officers to use in obtaining appropriate wage determinations for each official contract action
+ - Federal Service Desk (FSD): Provides assistance with SAM, CFDA, eSRS, FBO, and FSRS
 
+#### Legacy SIEWG Materials
 
+Materials from the Legacy SIEWG can be found [here](https://github.com/GSA/IAE-Architecture/tree/master/as-is/tech-docs)
 
-####IAE System Websites
-If you are interested in visiting the website of one of IAE's ten systems, the links are below: <List systems with hyperlinks>
-
-
-
-####Business Opportunities	
-For business opportunities related to IAE, please visit FBO.gov?
-
-
-
-####To Report Issues with the Code	
-<<INSERT INSTRUCTIONS FROM ERIC>>
-
-
-####Legacy SIEWG Materials	
-Materials from the Legacy SIEWG can be found here: <HYPERLINK TO DEVELOPER RESOURCES AREAS ONCE AVAILABLE>
