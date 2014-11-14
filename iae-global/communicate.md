@@ -6,7 +6,7 @@ nav: communicate
 
 ### IAE Resources and How to Contact Us
 
-If the IAE Public Space does not contain the information you are looking for, please contact us or explore IAE’s other resources.
+If the IAE Public Space does not contain the information you are looking for, please <a href="email:IAE-Transparency@gsa.gov">contact us</a> or explore IAE’s other resources.
 
 #### How to Contact IAE
 
