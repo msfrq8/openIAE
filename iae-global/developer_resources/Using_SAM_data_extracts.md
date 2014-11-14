@@ -4,7 +4,16 @@ title: Using the SAM Data Extract
 nav: using_SAM_data_extract
 ---
 ### Using the SAM Data Extracts
-We have refreshed the test files for all of the daily monthly extracts.The data is from the SAM production environment and has been scrubbed to eliminate all identifiable information from acutal entities. You can find the specific test file for your needs by looking at the files name below. Each sensitivity level and either the daily run or monthly run is indicated by the name of the file.
+SAM hosts extract files for both Entity Management and Excluded Party Data. You can get these files from two sources:
+1. SFTP - Click here for How to Download SAM Extracts from the SFTP server
+2. SAM.gov webiste. Go to SAM.gov under the "Data Access" area. 
+
+SAM Extract files are available at three access levels:
+1. Public (includes name, address, Point of Contact information, etc.)
+2. For Official Use Only (FOUO) (includes certain types of Point of Contact Information and Federal Hierarchy information)
+3. Sensitive (includes banking information and MPIN)
+
+If you require either FOUO or Sensitive levels of access you will need to add a role to your SAM account. To do that click here for instructions.
 
 Tools available:
 
