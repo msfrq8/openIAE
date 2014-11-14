@@ -15,8 +15,7 @@ Currently, content and guidance associated with using the SAM API are located in
 
 
 #### Using SAM Web Services
-Included in this site is all previuosly published and evolving guidance on using SAM Web Services, including Interact content, tutorials, field mappings, links to WSDL, bring files over to repo and link correspodingly. 
-[SAM Web Services Resources](Using_SAM_web_services_resources.md) index page.
+Included in this site is all previuosly published and evolving guidance on using SAM Web Services, including Interact content, tutorials, field mappings, links to WSDL, all hyperlinked to their Github host directories.
 
 #### Accessing SAM Data
 Complete Data Access Request instructions are contained in this section.
