@@ -1,9 +1,18 @@
 ---
 layout: dev_resources
-title: Using the SAM Data Extract
-nav: using_SAM_data_extract
+title: Using the SAM Web Services
+nav: using_SAM_web_services
 ---
-### SAM Web Services Documentation
+### Using SAM Web Services 
+SAM offers web services to search for Entiy data and Excluded Party data.<br>
+Entity Managment data can be searched by:<br>
+DUNSNumber<br>
+CAGECode<br>
+taxpayerIdentificationNumber*<br>
+startDate & endDate<br>
+*Note: TaxpayerIdentificationNumber requires elevated access<br><br>
+Exclusions can be searched by:
+
 
 
 Here is what you need to get started:
