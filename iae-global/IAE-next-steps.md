@@ -3,7 +3,7 @@ layout: default
 nav: main
 title: What's Next
 ---
-### What's Next for IAE?
+### What's Next for Transparency?
 
 - Improving formatting of the documentation
 - Issue consolidation (all repo issues gathered in one place)
