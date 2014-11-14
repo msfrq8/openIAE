@@ -10,7 +10,7 @@ Tools available:
 
 | Tool Name | Location | Description |
 |---|---|---|
-| SAM Data Extracts Mappings | https://github.com/GSA/IAE-Architecture/tree/master/as-is/tech-docs/SAMWebServicesExtractsMappingsv1.0 | Description of field mappings, data types, etc. |
+| SAM Data Extracts Mappings | [SAMMasterExtractMappingv5.1FOUOFileLayout](https://github.com/GSA/IAE-Architecture/blob/master/as-is/tech-docs/SAM/SAMWebServicesExtractsMappingsv1.0/SAM%20Master%20Extract%20Mapping%20v5.1%20FOUO%20File%20Layout.xlsx) | Description of field mappings, data types, etc. |
 | Guide to SFTP Download | https://github.com/GSA/IAE-Architecture/tree/master/as-is/tech-docs | Instruction guide on how to download SAM extract files.|
 | Sample Files | https://github.com/GSA/IAE-Architecture/tree/master/as-is/tech-docs/Sample%20Extract%20Files | Sample files at all data access levels |
 | SAM Functional Data Dictionary | https://github.com/GSA/IAE-Architecture/blob/master/as-is/tech-docs/SAM/SAM%20Functional%20Data%20Dictionary%20v4.0.pdf |   |
