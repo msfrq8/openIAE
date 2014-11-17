@@ -13,13 +13,19 @@ The Integrated Award Environment (IAE) is a Presidential E-Government initiative
 IAE operates under a set of principles to ensure our work is focused, productive, and mission-driven.
 
 The IAE Architectural Principles:
-- IAE Must be Open
-- We Must Always Treat Data as an Asset
-- We Will Use Continuous Improvement to Drive Innovation
-- IAE Will Provide an Effective User Experience for All Stakeholders
-- Business Transactions Must be Time- and Cost-Measurable
-- IAE Will Treat Security as Foundational
-- We Will Build Value Over Maintaining the Status Quo
+* IAE Must be Open
+
+* We Must Always Treat Data as an Asset
+ 
+* We Will Use Continuous Improvement to Drive Innovation
+
+* IAE Will Provide an Effective User Experience for All Stakeholders
+ 
+* Business Transactions Must be Time- and Cost-Measurable
+ 
+* IAE Will Treat Security as Foundational
+
+* We Will Build Value Over Maintaining the Status Quo
 
 The IAE Collaboration Principles:
 - We Are Transparent
