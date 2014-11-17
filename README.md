@@ -1,7 +1,7 @@
-SAM API Documentation
+IAE Transparency Space Documentation
 ====================
 
-This is the documentation repository for the GSA SAM API. 
+This is the documentation and guidance repository for all GSA Transparency Initiative related materials. 
 
 Thanks to CFPB team for creating this model and for furthering open source in government.  
 
