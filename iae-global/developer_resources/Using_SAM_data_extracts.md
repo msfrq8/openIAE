@@ -21,7 +21,7 @@ Tools available:
 |---|---|
 | [SAM Extract Mappings v1.00](https://github.com/SiloSmashers/iae-global/blob/gh-pages/iae-global/developer_resources/SAM%20Master%20Extract%20Mapping%20v5.1%20FOUO%20File%20Layout.xlsx?raw=true) | Description of field mappings, data types, etc. |
 | [Guide to SFTP Download](https://github.com/GSA/IAE-Architecture/blob/master/as-is/tech-docs/SAM/Guide%20to%20Downloading%20SAM%20Extracts%20via%20SFTP%20Site.pdf?raw=true) | Instruction guide on how to download SAM extract files.|
-| [Sample Files](https://github.com/GSA/IAE-Architecture/tree/master/as-is/tech-docs/SAM/Sample%20Extract%20Files) | Sample files at all data access levels |
+| <a href="https://github.com/GSA/IAE-Architecture/tree/master/as-is/tech-docs/SAM/Sample%20Extract%20Files" target="_blank">Sample Files</a> | Sample files at all data access levels |
 | [SAM Functional Data Dictionary](https://github.com/GSA/IAE-Architecture/blob/master/as-is/tech-docs/SAM/SAM%20Functional%20Data%20Dictionary%20v4.0.pdf?raw=true) |   |
 
 
