@@ -4,18 +4,26 @@ title: Using the SAM Web Services
 nav: using_SAM_web_services
 ---
 ### Using SAM Web Services 
-SAM offers web services to search for Entiy data and Excluded Party data.<br>
-Entity Managment data can be searched by:<br>
-DUNSNumber<br>
-CAGECode<br>
-taxpayerIdentificationNumber*<br>
-startDate & endDate<br>
-*Note: TaxpayerIdentificationNumber requires elevated access<br><br>
+SAM offers web services to search for both Entiy data and Exclusions data.<br>
+
+
+<b>Entity Managment data can be searched by:</b><br>
+-DUNSNumber<br>
+-CAGECode<br>
+-taxpayerIdentificationNumber*<br>
+-startDate & endDate<br>
+
+
+
+*Note: TaxpayerIdentificationNumber requires elevated access. Click here [link to Accessing SAM Data] for Data Access Request instructions.<br><br>
+
+
+
 Exclusions can be searched by:
 
 
 
-Here is what you need to get started:
+###Testing SAM Web Services
 
 | Web Service Name | Endpoint / WSDL |
 |---|---|
@@ -26,7 +34,7 @@ Here is what you need to get started:
 | __TEST ENDPOINT__ | https://gw.test.sam.gov/SAMWS/1.0/ExclusionSearch |
 | __WSDL FILE__ | https://github.com/GSA/IAE-Architecture/blob/master/as-is/tech-docs/SAM/SAMWSDLsv1.0/ExclusionSearch.wsdl |
 
-Test IDs:
+<b>Test IDs:</b>
 
 | ID Name | Password | Description | Examples of available data*| 
 |---|---|---|---|
