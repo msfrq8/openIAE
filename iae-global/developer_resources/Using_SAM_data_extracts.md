@@ -5,7 +5,7 @@ nav: using_SAM_data_extract
 ---
 ### Using the SAM Data Extracts
 SAM hosts extract files for both Entity Management and Excluded Party Data. You can get these files from two sources:<br>
-1. SFTP - Click here for How to Download SAM Extracts from the SFTP server<br>
+1. SFTP - [Click here](https://github.com/GSA/IAE-Architecture/blob/master/as-is/tech-docs/SAM/Guide%20to%20Downloading%20SAM%20Extracts%20via%20SFTP%20Site.pdf) for How to Download SAM Extracts from the SFTP server<br>
 2. SAM.gov webiste. Go to SAM.gov under the "Data Access" area. <br>
 
 SAM Extract files are available at three access levels:<br>
