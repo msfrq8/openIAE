@@ -17,17 +17,18 @@ The SAM Registration includes information such as; Name, address, various POCs
 
 Exclusion records identify those parties excluded from receiving federal contracts, certain subcontracts, and from certain types of federal financial and non-financial assistance and benefits. These are also commonly known as “suspensions” and “debarments”.
 
-There are 4 types of Exclusions; 
+There are 4 types of Exclusions:
+
 1. Ineligible (Proceedings Pending)
 2. Ineligible (Proceedings Completed)
 3. Prohibition/Restriction
 4. Voluntary Exclusion
 
 
-Exclusions have a Cause and Effect or in other words, what events lead to the Exclusion and what limitations are imposed on the Entity with the Exclusion. For more details on Exclusion Types go <here>  link: https://www.sam.gov/portal/SAM/?navigationalstate=JBPNS_rO0ABXdcACJqYXZheC5mYWNlcy5wb3J0bGV0YnJpZGdlLlNUQVRFX0lEAAAAAQApdmlldzpjYjYyZGNkNS1kNTc4LTRmZDUtYjgyMi02MzVkZWFiOWQ5ZWQAB19fRU9GX18*&portal:componentId=8ed96f1b-09ff-48fe-aadf-71d9e89e497e&interactionstate=JBPNS_rO0ABXc5ABBfanNmQnJpZGdlVmlld0lkAAAAAQAYL2pzZi9oZWxwL3NhbUhlbHBOYXYuanNwAAdfX0VPRl9f&portal:type=action##11
+Exclusions have a Cause and Effect or in other words, what events lead to the Exclusion and what limitations are imposed on the Entity with the Exclusion. For more details on Exclusion Types [Go Here.](https://www.sam.gov/portal/SAM/?navigationalstate=JBPNS_rO0ABXdcACJqYXZheC5mYWNlcy5wb3J0bGV0YnJpZGdlLlNUQVRFX0lEAAAAAQApdmlldzpjYjYyZGNkNS1kNTc4LTRmZDUtYjgyMi02MzVkZWFiOWQ5ZWQAB19fRU9GX18*&portal:componentId=8ed96f1b-09ff-48fe-aadf-71d9e89e497e&interactionstate=JBPNS_rO0ABXc5ABBfanNmQnJpZGdlVmlld0lkAAAAAQAYL2pzZi9oZWxwL3NhbUhlbHBOYXYuanNwAAdfX0VPRl9f&portal:type=action##11)
 
 #### Where to get SAM Data
 
-You can get Entity Data or Exclusions data by using SAM Web Services [link to SAM web services] or by downloading SAM extracts [link to SAM extracts page]
+You can get Entity Data or Exclusions data by [using SAM Web Services](Using_SAM_web_services.html) or by downloading SAM extracts from the [Github IAE Architecture Repository folder](https://github.com/GSA/IAE-Architecture/tree/master/as-is/tech-docs/SAM/Sample%20Extract%20Files)
 
-Lots of work has recently been done SAM APIs. You can search Entity Data and also check the status of a SAM Registration. Learn more by clicking here [link to SAM APIs]
+Lots of work has recently been done SAM APIs. You can search Entity Data and also check the status of a SAM Registration. Learn more by [clicking here](https://gsa.github.io/sam_api/sam/).
