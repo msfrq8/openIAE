@@ -6,12 +6,14 @@ nav: using_SAM_web_services
 ### Using SAM Web Services 
 SAM offers web services to search for both Entiy data and Exclusions data.<br>
 
+The WSDL is available at https://gw.sam.gov/SAMWS/1.0/Entity?wsdl (https://gw.sam.gov/SAMWS/1.0/Entity?wsdl)
+The Endpoint is https://gw.sam.gov/SAMWS/1.0/Entity (https://gw.sam.gov/SAMWS/1.0/Entity)
 
 <b>Entity Managment data can be searched by:</b><br>
--DUNSNumber<br>
--CAGECode<br>
--taxpayerIdentificationNumber*<br>
--startDate & endDate<br>
+* DUNSNumber<br>
+* CAGECode<br>
+* taxpayerIdentificationNumber*<br>
+* startDate & endDate<br>
 
 
 
@@ -25,22 +27,21 @@ Exclusions can be searched by:
 
 ###Testing SAM Web Services
 
-| Web Service Name | Endpoint / WSDL |
+| Web Service | Endpoint |
 |---|---|
-| SAM Entity Management | https://gw.sam.gov/SAMWS/1.0/Entity?wsdl |
+| SAM Entity Management | |
 | __TEST ENDPOINT__ | https://test.sam.gov/SAMWS/1.0/Entity |
-| __WSDL FILE__ | https://github.com/GSA/IAE-Architecture/blob/master/as-is/tech-docs/SAM/SAMWSDLsv1.0/Entity.wsdl |
-| SAM Exclusion | https://gw.sam.gov/SAMWS/1.0/ExclusionSearch?wsdl |
+| SAM Exclusion |  |
 | __TEST ENDPOINT__ | https://gw.test.sam.gov/SAMWS/1.0/ExclusionSearch |
-| __WSDL FILE__ | https://github.com/GSA/IAE-Architecture/blob/master/as-is/tech-docs/SAM/SAMWSDLsv1.0/ExclusionSearch.wsdl |
+
 
 <b>Test IDs:</b>
 
 | ID Name | Password | Description | Examples of available data*| 
 |---|---|---|---|
-| SAMPublic | Contact pamela.miller@gsa.gov | EM XML at the public level requires authentication. | includes: name, address, some POC information |
-| SAMFOUO | Contact pamela.miller@gsa.gov | For Official Use Only | includes certain types of POC and hierarchy information. |
-| SAMSensitive | Contact pamela.miller@gsa.gov | more secure data including banking information and MPIN. |
+| SAMPublic | Contact IAETransparency@gsa.gov | The public Entity Management Web Service requires authentication | includes: name, address, some POC information |
+| SAMFOUO | Contact IAETransparency@gsa.gov | For Official Use Only | Includes certain types of POC and hierarchy information. |
+| SAMSensitive | Contact IAETransparency@gsa.gov | Offers more secure data including banking information and MPIN. |
 
 *A test id is not needed for the SAM Exclusions XML web service. There is no role or authentication requirement.
  
