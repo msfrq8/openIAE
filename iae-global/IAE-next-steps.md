@@ -11,8 +11,7 @@ title: What's Next
 - FPDS documentation
 - ..... other items in our backlog
 
+We would like to hear from you. Let us know what you would like to see next, [click here](https://github.com/GSA/IAE-Transparency-Space/issues).
 
-*Explicitly ask for community contribution so they can post an issue to tell us what we should do.
+#### Useful Links
 
-
-*Also have a "useful links" list
