@@ -17,12 +17,12 @@ If you require either FOUO or Sensitive levels of access you will need to add a 
 
 Tools available:
 
-| Tool Name | Location | Description |
-|---|---|---|
-| SAM Data Extracts Mappings | <a href="https://github.com/SiloSmashers/iae-global/blob/gh-pages/iae-global/developer_resources/SAM%20Master%20Extract%20Mapping%20v5.1%20FOUO%20File%20Layout.xlsx"> SAM Extract Mappings v1.0</a> | Description of field mappings, data types, etc. |
-| Guide to SFTP Download | https://github.com/GSA/IAE-Architecture/tree/master/as-is/tech-docs | Instruction guide on how to download SAM extract files.|
-| Sample Files | https://github.com/GSA/IAE-Architecture/tree/master/as-is/tech-docs/Sample%20Extract%20Files | Sample files at all data access levels |
-| SAM Functional Data Dictionary | https://github.com/GSA/IAE-Architecture/blob/master/as-is/tech-docs/SAM/SAM%20Functional%20Data%20Dictionary%20v4.0.pdf |   |
+| Tool Name | Description |
+|---|---|
+| [SAM Extract Mappings v1.00](https://github.com/SiloSmashers/iae-global/blob/gh-pages/iae-global/developer_resources/SAM%20Master%20Extract%20Mapping%20v5.1%20FOUO%20File%20Layout.xlsx?raw=true) | Description of field mappings, data types, etc. |
+| [Guide to SFTP Download](https://github.com/GSA/IAE-Architecture/tree/master/as-is/tech-docs?raw=true) | Instruction guide on how to download SAM extract files.|
+| [Sample Files](https://github.com/GSA/IAE-Architecture/tree/master/as-is/tech-docs/Sample%20Extract%20Files?raw=true) | Sample files at all data access levels |
+| [SAM Functional Data Dictionary](https://github.com/GSA/IAE-Architecture/blob/master/as-is/tech-docs/SAM/SAM%20Functional%20Data%20Dictionary%20v4.0.pdf?raw=true) |   |
 
 
 If you have questions, please post them to this site's [Repo Issues](https://github.com/GSA/IAE-Architecture/issues).
