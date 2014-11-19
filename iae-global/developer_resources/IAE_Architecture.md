@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: dev_resources
 title: IAE Architecture
 nav: main
 ---
