@@ -9,6 +9,6 @@ The Github GSA IAE Architecrture repository contains all the architecture, desig
 understand the functional definition of IAE, the design and ultimate technical implementation. It includes everything required to build a production environment for IAE, 
 or smaller limited capability environments for the support of development, test or demo activities.
 The repository is split into two separate sections. The as-is contains materials related to the pre-transformation systems. 
-The to-be contains architecture, design and code covering for the new transformed environment.
+The to-be contains architecture, design and code for the new transformed environment.
 
 Visit the [Github IAE Architecture Repository](https://github.com/GSA/IAE-Architecture)
