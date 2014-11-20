@@ -6,9 +6,6 @@ nav: using_SAM_web_services
 ### Using SAM Web Services 
 SAM offers web services to search for both Entiy data and Exclusions data.<br>
 
-The WSDL is available at [https://gw.sam.gov/SAMWS/1.0/Entity?wsdl](https://gw.sam.gov/SAMWS/1.0/Entity?wsdl).
-The Endpoint is [https://gw.sam.gov/SAMWS/1.0/Entity](https://gw.sam.gov/SAMWS/1.0/Entity)
-
 <b>Entity Managment data can be searched by:</b><br>
 
 * DUNSNumber
@@ -16,12 +13,16 @@ The Endpoint is [https://gw.sam.gov/SAMWS/1.0/Entity](https://gw.sam.gov/SAMWS/1
 * taxpayerIdentificationNumber
 * startDate & endDate
 
+EndPoint: https://gw.sam.gov/SAMWS/1.0/Entity(#)
+WSDL File: https://gw.sam.gov/SAMWS/1.0/Entity?wsdl(#)
 
 *Note: TaxpayerIdentificationNumber requires elevated access. Click here [link to Accessing SAM Data] for Data Access Request instructions.<br><br>
 
 
 
-Exclusions can be searched by:
+Exclusions can be searched by: Name (including Business Name, First/Last Name, Partial Name), Social Security Number, Taxpayer Identificcation Number, Cage Code, DUNS number. If there is a match the web service returns the Public Exclusion Record in XML for you to consume into your own system.
+EndPoint: https://gw.sam.gov/SAMWS/1.0/ExclusionSearch(#)
+WSDL File: https://gw.sam.gov/SAMWS/1.0/ExclusionSearch?wsdl(#)
 
 
 ###Testing SAM Web Services
@@ -56,7 +57,7 @@ Tools available:
 | [SAM Functional Data Dictionary](https://github.com/GSA/IAE-Architecture/blob/master/as-is/tech-docs/SAM/SAM%20Functional%20Data%20Dictionary%20v4.0.pdf) | https://github.com/GSA/IAE-Architecture/blob/master/as-is/tech-docs/SAM/SAM%20Functional%20Data%20Dictionary%20v4.0.pdf |
 | [Web Services Response Schema Documentation]() | Coming Soon! |
 
-If you have questions, please post them to [IAE Transparency Issues](https://github.com/GSA/IAE-Architecture/issues).
+Comments? Questions?  [Talk to us](https://github.com/GSA/IAE-Architecture/issues).
 
 
 
