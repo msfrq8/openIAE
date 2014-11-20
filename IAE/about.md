@@ -21,6 +21,7 @@ The IAE Architectural Principles:
 * IAE Will Treat Security as Foundational
 * We Will Build Value Over Maintaining the Status Quo
 
+
 The IAE Collaboration Principles:
 * We Are Transparent
 * We Are Curious
