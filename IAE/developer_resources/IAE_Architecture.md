@@ -12,3 +12,5 @@ The repository is split into two separate sections. The as-is contains materials
 The to-be contains architecture, design and code for the new transformed environment.
 
 Visit the [Github IAE Architecture Repository](https://github.com/GSA/IAE-Architecture)
+
+Comments? Questions?  [Talk to us](https://github.com/GSA/IAE-Transparency-Space/issues).
