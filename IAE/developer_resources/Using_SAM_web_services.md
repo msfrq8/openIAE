@@ -6,15 +6,15 @@ nav: using_SAM_web_services
 ### Using SAM Web Services 
 SAM offers web services to search for both Entiy data and Exclusions data.<br>
 
-The WSDL is available at https://gw.sam.gov/SAMWS/1.0/Entity?wsdl (https://gw.sam.gov/SAMWS/1.0/Entity?wsdl)
-The Endpoint is https://gw.sam.gov/SAMWS/1.0/Entity (https://gw.sam.gov/SAMWS/1.0/Entity)
+The WSDL is available at [https://gw.sam.gov/SAMWS/1.0/Entity?wsdl](https://gw.sam.gov/SAMWS/1.0/Entity?wsdl).
+The Endpoint is [https://gw.sam.gov/SAMWS/1.0/Entity](https://gw.sam.gov/SAMWS/1.0/Entity)
 
 <b>Entity Managment data can be searched by:</b><br>
-* DUNSNumber<br>
-* CAGECode<br>
-* taxpayerIdentificationNumber*<br>
-* startDate & endDate<br>
 
+* DUNSNumber
+* CAGECode
+* taxpayerIdentificationNumber
+* startDate & endDate
 
 
 *Note: TaxpayerIdentificationNumber requires elevated access. Click here [link to Accessing SAM Data] for Data Access Request instructions.<br><br>
@@ -22,7 +22,6 @@ The Endpoint is https://gw.sam.gov/SAMWS/1.0/Entity (https://gw.sam.gov/SAMWS/1.
 
 
 Exclusions can be searched by:
-
 
 
 ###Testing SAM Web Services
