@@ -31,4 +31,6 @@ Exclusions have a Cause and Effect or in other words, what events lead to the Ex
 
 You can get Entity Data or Exclusions data by [using SAM Web Services](Using_SAM_web_services.html) or by downloading SAM extracts from the [Github IAE Architecture Repository folder](https://github.com/GSA/IAE-Architecture/tree/master/as-is/tech-docs/SAM/Sample%20Extract%20Files)
 
-Lots of work has recently been done SAM APIs. You can search Entity Data and also check the status of a SAM Registration. Learn more by [clicking here](https://gsa.github.io/sam_api/sam/).
+Lots of work has recently been done SAM APIs. You can search Entity Data and also check the status of a SAM Registration. Learn more by [clicking here](https://gsa.github.io/sam_api/sam/).<br>
+
+Comments? Questions?  [Talk to us](https://github.com/GSA/IAE-Transparency-Space/issues).
