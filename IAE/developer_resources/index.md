@@ -7,7 +7,6 @@ nav: dev_resources_index
 
 _For IAE system operational questions or issues, please visit [www.fsd.gov](https://www.fsd.gov)_
 
-####Organization
 The Developer Resources area is organized into the following sections:
 
 __About SAM Data__ An introduction to the definition and structure of data collected and maintained by SAM
