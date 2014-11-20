@@ -29,4 +29,4 @@ Tools available:
 | [Exclusions Extract User Guide](https://github.com/GSA/IAE-Architecture/blob/master/as-is/tech-docs/SAM/SAM_Exclusions_Extract_User_Guide.pdf?raw=true)|SAM Exclusions Extract contains a list of all currently open exclusions in SAM|
 
 
-If you have questions, please post them to this site's [Repo Issues](https://github.com/GSA/IAE-Architecture/issues).
+Comments? Questions?  [Talk to us](https://github.com/GSA/IAE-Transparency-Space/issues).
