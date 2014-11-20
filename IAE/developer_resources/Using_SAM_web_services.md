@@ -13,26 +13,26 @@ SAM offers web services to search for both Entiy data and Exclusions data.<br>
 * taxpayerIdentificationNumber
 * startDate & endDate
 
-EndPoint: https://gw.sam.gov/SAMWS/1.0/Entity(#)
-WSDL File: https://gw.sam.gov/SAMWS/1.0/Entity?wsdl(#)
+<b>EndPoint:</b> https://gw.sam.gov/SAMWS/1.0/Entity(#)<br>
+<b>WSDL File:</b> https://gw.sam.gov/SAMWS/1.0/Entity?wsdl(#)
 
-*Note: TaxpayerIdentificationNumber requires elevated access. Click here [link to Accessing SAM Data] for Data Access Request instructions.<br><br>
+*Note: TaxpayerIdentificationNumber requires elevated access. [Click here] (http://gsa.github.io/IAE-Transparency-Space/IAE/developer_resources/Access_SAM_data.html) for Data Access Request instructions.<br><br>
 
 
 
-Exclusions can be searched by: Name (including Business Name, First/Last Name, Partial Name), Social Security Number, Taxpayer Identificcation Number, Cage Code, DUNS number. If there is a match the web service returns the Public Exclusion Record in XML for you to consume into your own system.
-EndPoint: https://gw.sam.gov/SAMWS/1.0/ExclusionSearch(#)
-WSDL File: https://gw.sam.gov/SAMWS/1.0/ExclusionSearch?wsdl(#)
+<b>Exclusions can be searched by:</b> <br>Name (including Business Name, First/Last Name, Partial Name), Social Security Number, Taxpayer Identificcation Number, Cage Code, DUNS number. If there is a match the web service returns the Public Exclusion Record in XML for you to consume into your own system.<br>
+<b>EndPoint:</b> (https://gw.sam.gov/SAMWS/1.0/ExclusionSearch) 
+<b>WSDL File:</b> (https://gw.sam.gov/SAMWS/1.0/ExclusionSearch?wsdl)
 
 
 ###Testing SAM Web Services
 
-| Web Service | Endpoint |
+| Web Service | Endpoint in Test Environment |
 |---|---|
-| SAM Entity Management | |
-| __TEST ENDPOINT__ | https://test.sam.gov/SAMWS/1.0/Entity |
-| SAM Exclusion |  |
-| __TEST ENDPOINT__ | https://gw.test.sam.gov/SAMWS/1.0/ExclusionSearch |
+| SAM Entity Management |https://test.sam.gov/SAMWS/1.0/Entity|
+
+| SAM Exclusion |https://gw.test.sam.gov/SAMWS/1.0/ExclusionSearch  |
+
 
 
 <b>Test IDs:</b>
@@ -45,7 +45,7 @@ WSDL File: https://gw.sam.gov/SAMWS/1.0/ExclusionSearch?wsdl(#)
 
 *A test id is not needed for the SAM Exclusions XML web service. There is no role or authentication requirement.
  
-Need more help? Click [here](sam entity management tutorial url in tech-docs) for the SAM entity web service management tutorial.
+Need more help? Click [here](sam entity management tutorial url in tech-docs) for the SAM entity web service management tutorial.<br> <br>
 
 Tools available:
 
