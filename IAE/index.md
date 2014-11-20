@@ -21,4 +21,4 @@ __Repositories__  This page contains links to all of the existing and proposed G
 
 __Developer Resources__  The Developer Resources page will provide data and resources that you can leverage to develop applications and build your own environments.
 
-__IAE Resources and Contacts__  Information on IAE’s other websites and resources can be found here 
+__IAE Resources and Contacts__  Information on IAE’s other websites and resources can be found [here](communicate.html). 
