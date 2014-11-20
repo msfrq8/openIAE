@@ -14,5 +14,5 @@ title: What's Next
 We would like to hear from you. Let us know what you would like to see next, [click here](https://github.com/GSA/IAE-Transparency-Space/issues).
 
 #### Useful Links
-[GitHub In Government] (https://github.com/18F/github-in-government)
+[GitHub In Government](https://github.com/18F/github-in-government)
 
