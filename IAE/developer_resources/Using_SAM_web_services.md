@@ -14,7 +14,7 @@ SAM offers web services to search for both Entiy data and Exclusions data.<br>
 * ```startDate``` & ```endDate``` (Maximum search time allowed between startDate and endDate is 24 hours.)
 * ```registrationStatus```
 
-The web service returns the Entity Management Record in XML format for you to consume into your local system. The Entity Management record has four areas:
+The web service returns the Entity Management Record in XML format for you to consume into your local system. The Entity Management record has four areas:<br>
 * ```coreData```<br>
 * ```assertions```<br>
 * ```repsAndCerts``` (Representations and Certifications)<br>
