@@ -4,12 +4,12 @@ layout: default
 
 ---
 
-#### Overview
+### Overview
 
 <p>Welcome to the IAE Transparency Space! This site is the home of documents, code, and information related to the U.S. General Service Administration (GSA) Integrated Award Environment’s (IAE) Transparency Initiative. The focus of this initiative is to increase openness while improving systems and functions for the acquisition and assistance communities and for our business partners.</p>
 
 This repository is the initial release and contains limited information. As the development process progresses, design and code will be added on a rolling basis.
-<h3>Organization</h3>
+<h5>Organization</h5>
 
 The IAE Transparency Space is organized into five content areas:
 
