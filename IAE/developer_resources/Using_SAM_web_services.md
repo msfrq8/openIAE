@@ -8,17 +8,17 @@ SAM offers web services to search for both Entiy data and Exclusions data.<br>
 
 <b>Entity Managment data can be searched by:</b><br>
 
-* DUNSNumber (Both DUNS and DUNS + 4)
-* CAGECode
-* taxpayerIdentificationNumber (requires addtional access  [Click here](/developer_resources/Access_SAM_data.html "Data Access") for more information.)<br>
-* startDate & endDate (Maximum search time allowed between startDate and endDate is 24 hours.)
-* registrationStatus
+* ```DUNSNumber``` (Both DUNS and DUNS + 4)
+* ```CAGECode```
+* ```taxpayerIdentificationNumber``` (requires addtional access  [Click here](/developer_resources/Access_SAM_data.html "Data Access") for more information.)<br>
+* ```startDate``` & ```endDate``` (Maximum search time allowed between startDate and endDate is 24 hours.)
+* ```registrationStatus```
 
 The web service returns the Entity Management Record in XML format for you to consume into your local system. The Entity Management record has four areas:
-* Core Data
-* Assertions
-* Representations and Certifications 
-* Points of Contact(POC)<br>
+* ```coreData```
+* ```assertions```
+* ```repsAndCerts``` (Representations and Certifications)
+* ```POCs```(Points of Contact)<br>
 
 You have to put a "Y" in any one of the above element tags to get a result from the web service. <br>
 
@@ -28,11 +28,11 @@ You have to put a "Y" in any one of the above element tags to get a result from 
 Need more help? Click [here](https://github.com/GSA/IAE-Architecture/tree/master/as-is/tech-docs/SAM) for the SAM entity web service management tutorial.<br> <br>
 
 <b>Exclusions can be searched by:</b> <br>
-* Name (including Business Name, First/Last Name, Partial Name)<br>
-* Social Security Number<br>
-* Taxpayer Identification Number<br>
-* Cage Code<br>
-* DUNS number.<br> <br>If there is a match the web service returns the Public Exclusion Record in XML for you to consume into your own system.<br>
+* ```Name``` (including Business Name, First/Last Name, Partial Name)<br>
+* ```Social Security Number```<br>
+* ```Taxpayer Identification Number```<br>
+* ```Cage Code```<br>
+* ```DUNS``` number.<br> <br>If there is a match the web service returns the Public Exclusion Record in XML for you to consume into your own system.<br>
 <b>EndPoint:</b> [https://gw.sam.gov/SAMWS/1.0/ExclusionSearch](https://gw.sam.gov/SAMWS/1.0/ExclusionSearch) <br>
 <b>WSDL File:</b>[https://gw.sam.gov/SAMWS/1.0/ExclusionSearch?wsdl](https://gw.sam.gov/SAMWS/1.0/ExclusionSearch?wsdl)
 
