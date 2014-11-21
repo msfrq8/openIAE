@@ -3,13 +3,15 @@ layout: dev_resources
 title: Using SAM Data Extracts
 nav: using_SAM_data_extract
 ---
-### Using SAM Data Extracts
+### About SAM Data Extracts
 SAM Processes **Entity Management** extract files and **Exclusion** extract files for you to download and consume into your local applications. <br>
 
 The Entity Management extract contains information related to a Registration of an Entity including Core Data, Points of Contacts, Representations and Certifications, and other data elements depending on your level of access. <br>
 
 The Exclusions extract contains a list of all currently open exclusions in SAM. This identifies 
 entities that are in some way restricted from doing business with the US Federal Government. 
+
+####Extract file processing times:
 
 Monthly extract files are processed on the 1st Sunday of each month. The monthly files contain all active SAM records and SAM records that have become Expired within the last 6 months. 
 
@@ -22,11 +24,11 @@ SAM hosts the extract files on our SFTP server and on the sam.gov site. <br>
 2. SAM.gov webiste. Go to SAM.gov under the "Data Access" area and you will find all of the extract files. <br>
 
 **SAM Extract files are available at three access levels:**<br>
-1. Public (includes name, address, Point of Contact information, etc.)<br>
-2. For Official Use Only (FOUO) (includes certain types of Point of Contact Information and Federal Hierarchy information)<br>
-3. Sensitive (includes banking information and MPIN)
+1. **Public** (includes name, address, Point of Contact information, etc.)<br>
+2. For Official Use Only (**FOUO**) (includes certain types of Point of Contact Information and Federal Hierarchy information)<br>
+3. **Sensitive** (includes banking information and MPIN)
 
-If you require either FOUO or Sensitive levels of access you will need to add a role to your SAM account. To do that [click here](https://gsa.github.io/IAE-Transparency-Space/IAE/developer_resources/Access_SAM_data.html) for instructions.
+If you require either **FOUO** or **Sensitive** levels of access you will need to add a role to your SAM account. To do that [click here](https://gsa.github.io/IAE-Transparency-Space/IAE/developer_resources/Access_SAM_data.html) for instructions.
 
 
 **Tools available:**
