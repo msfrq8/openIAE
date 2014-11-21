@@ -15,4 +15,7 @@ We would like to hear from you. Let us know what you would like to see next, [cl
 
 #### Useful Links
 [GitHub In Government](https://github.com/18F/github-in-government)
+[Read up on Github issues](https://github.com/blog/831-issues-2-0-the-next-generation)
+[govcode.org - other open source projects in government](http://www.govcode.org/)
+[Acquistion Central](http://www.acquisition.gov/)
 
