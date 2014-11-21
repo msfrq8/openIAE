@@ -11,6 +11,7 @@ layout: default
 This repository is the initial release and contains limited information. As the development process progresses, design and code will be added on a rolling basis.
 
 ### Organization
+
 The IAE Transparency Space is organized into five content areas:
 
 __Using the IAE Public Space__  This page will explain the different ways you can benefit from the IAE Transparency Space as well as how you can provide feedback to the documentation posted on our site.
