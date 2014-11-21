@@ -4,13 +4,13 @@ title: Communicate
 nav: communicate
 ---
 
-### IAE Resources and How to Contact Us
+### IAE Resources and Contacts
 
-If the IAE Public Space does not contain the information you are looking for, please <a href="mailto:IAE-Transparency@gsa.gov">__contact us__</a> or explore IAE’s other resources.
+If the IAE Transparency Space does not contain the information you are looking for, please contact us via one of the methods below or explore IAE’s other resources.
 
 #### How to Contact IAE
 
-More information about the IAE and the systems we manage is available at GSA.gov/IAE and in our online industry collaboration community on Interact. 
+More information about the IAE and the systems we manage is available at GSA.gov/IAE and in our online industry collaboration community on Interact.
 
 You can also go to the [IAE Transparency Issues Repository](https://github.com/GSA/IAE-Transparency-Space/issues) in Github and, after signing in to Github, click on New Issue to enter specific inquiries.
 
