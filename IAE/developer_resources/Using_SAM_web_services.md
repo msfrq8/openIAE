@@ -15,9 +15,9 @@ SAM offers web services to search for both Entiy data and Exclusions data.<br>
 * ```registrationStatus```
 
 The web service returns the Entity Management Record in XML format for you to consume into your local system. The Entity Management record has four areas:
-* ```coreData```
-* ```assertions```
-* ```repsAndCerts``` (Representations and Certifications)
+* ```coreData```<br>
+* ```assertions```<br>
+* ```repsAndCerts``` (Representations and Certifications)<br>
 * ```POCs```(Points of Contact)<br>
 
 You have to put a "Y" in any one of the above element tags to get a result from the web service. <br>
