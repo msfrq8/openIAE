@@ -13,4 +13,4 @@ title: redirect
 <title>Page Redirection</title>
  
 <!-- Note: don't tell people to `click` the link, just tell them that it is a link. -->
-If you are not redirected automatically, follow the <a href='IAE/index.html'>link to example</a>
+If you are not redirected automatically, follow the <a href='IAE/index.html'>link to the IAE Transparency Space</a>
