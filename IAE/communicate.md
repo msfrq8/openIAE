@@ -30,5 +30,5 @@ You can also go to the [IAE Transparency Issues Repository](https://github.com/G
 
 #### Legacy SIEWG Materials
 
-Materials from the Legacy SIEWG can be found [here](https://github.com/GSA/IAE-Architecture/tree/master/as-is/tech-docs/SAM)
+Materials from the Legacy SIEWG can be found [here](https://github.com/GSA/IAE-Architecture/tree/master/as-is/tech-docs/SAM).
 
