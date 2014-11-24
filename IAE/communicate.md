@@ -10,7 +10,7 @@ If the IAE Transparency Space does not contain the information you are looking f
 
 
 #### IAE Systems and Resources
-More information about the IAE and the systems we manage is available at [GSA.gov/IAE](https://interact.gsa.gov/group/integrated-award-environment-iae-industry-community) and in our [online industry collaboration community](http://gsa.gov/portal/content/105036) on Interact.
+More information about the IAE and the systems we manage is available at [GSA.gov/IAE](http://gsa.gov/portal/content/105036) and in our [online industry collaboration community](https://interact.gsa.gov/group/integrated-award-environment-iae-industry-community) on Interact.
 
  - [System for Award Management (SAM)](https://sam.gov/): Entity registration and management
  - [Past Performance Information Retrieval System (PPIRS)](www.ppirs.gov): Single source for contractor performance information
