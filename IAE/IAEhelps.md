@@ -9,7 +9,7 @@ The IAE Transparency Space can help you in several different ways, but there are
 #### How Can IAE's Transparency Space Help Me?
 IAE's Transparency Space contains up-to-date, actionable information to help you learn how to interact with the data and API environment and how to use the data to develop applications. Additionally, the IAE public space has content that can be used in building your own environments.
 
-If you are looking for other resources for the Integrated Award Environment or one of it's ten systems, please visit our [Repositories Page](repos.html) page for more details.
+If you are looking for other resources for the Integrated Award Environment or one of it's ten systems, please visit our [Repositories Page](repos.html) for more details.
 
 
 #### How Can I Contribute to IAE's Transparency Space?
