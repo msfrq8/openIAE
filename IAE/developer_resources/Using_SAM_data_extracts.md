@@ -21,7 +21,7 @@ Daily extract files are processed Tuesday - Saturday of each week. The daily fil
 ### Where to get SAM Data Extracts 
 SAM hosts the extract files on our SFTP server and on the sam.gov site. <br>
 1. SFTP - [Click here](https://github.com/GSA/IAE-Architecture/blob/master/as-is/tech-docs/SAM/Guide%20to%20Downloading%20SAM%20Extracts%20via%20SFTP%20Site.pdf?raw=true) for How to Download SAM Extracts from the SFTP server<br>
-2. SAM.gov webiste. Go to [SAM.gov](https://www.sam.gov/) under the "Data Access" area and you will find all of the extract files. <br>
+2. SAM.gov website. Go to [SAM.gov](https://www.sam.gov/) under the "Data Access" area and you will find all of the extract files. <br>
 
 **SAM Extract files are available at three access levels:**<br>
 1. **Public** (includes name, address, Point of Contact information, etc.)<br>
