@@ -4,9 +4,9 @@ title: Using the SAM Web Services
 nav: using_SAM_web_services
 ---
 ### Using SAM Web Services 
-SAM offers web services to search for both Entiy data and Exclusions data.<br>
+SAM offers web services to search for both Entity data and Exclusions data.<br>
 
-<b>Entity Managment data can be searched by:</b><br>
+<b>Entity Management data can be searched by:</b><br>
 
 * ```DUNSNumber``` (Both DUNS and DUNS + 4)
 * ```CAGECode```
