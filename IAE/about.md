@@ -28,6 +28,7 @@ __The IAE Architectural Principles:__
 ####IAE Systems
 <div class="container">
 <img src="../images/IAESystems.png" style="float:center" class="markdown-imagecenter" alt="" />
+<br clear="left">
 </div>
 
 ####IAE Mission
