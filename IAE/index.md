@@ -13,12 +13,12 @@ This repository is the initial release and contains limited information. As the 
 
 The IAE Transparency Space is organized into five content areas:
 
-__Using the IAE Transparency Space__  This page will explain the different ways you can benefit from the IAE Transparency Space as well as how you can provide feedback to the documentation posted on our site.
+__Using the IAE Transparency Space:__  This page will explain the different ways you can benefit from the IAE Transparency Space as well as how you can provide feedback to the documentation posted on our site.
 
-__About IAE__  For those unfamiliar with the Integrated Award Environment, this page will detail the mission, scope, governance, and principles of IAE.
+__About IAE:__  For those unfamiliar with the Integrated Award Environment, this page will detail the mission, scope, governance, and principles of IAE.
 
-__Repositories__  This page contains links to all of the existing and proposed GitHub repositories maintained by the IAE Transparency Initiative.
+__Repositories:__  This page contains links to all of the existing and proposed GitHub repositories maintained by the IAE Transparency Initiative.
 
-__Developer Resources__  The Developer Resources page will provide data and resources that you can leverage to develop applications and build your own environments.
+__Developer Resources:__  The Developer Resources page will provide data and resources that you can leverage to develop applications and build your own environments.
 
-__IAE Resources and Contacts__  Information on IAE’s other websites and resources can be found [here](communicate.html). 
+__IAE Resources and Contacts:__  Information on IAE’s other websites and resources can be found [here](communicate.html). 
