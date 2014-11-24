@@ -16,13 +16,13 @@ __Using the SAM Data Extracts__ This section includes references to test files, 
 __Using the SAM API__ Currently, content and guidance associated with using the SAM API are located in the [Github SAM API microsite](http://gsa.github.io/sam_api/sam).
 
 
-__Using SAM Web Services__ Included in this site is all previuosly published and evolving guidance on using SAM Web Services, including Interact content, tutorials, field mappings, links to WSDL, all hyperlinked to their Github host directories.
+__Using SAM Web Services__ Included in this site is all previously published and evolving guidance on using SAM Web Services, including Interact content, tutorials, field mappings, links to WSDL, all linked to their Github host directories.
 
 __Accessing SAM Data__ Complete Data Access Request instructions for non-public data are contained in this section.
 
 __FPDS Data Documentation__ Information Coming Soon
 
-__About IAE Architecture__ A reference to the Github GSA IAE Architecture repository, whicht contains architectural artifacts and reference documents.
+__About IAE Architecture__ A reference to the Github GSA IAE Architecture repository, which contains architectural artifacts and reference documents.
 
 
 Comments? Questions?  [Talk to us](https://github.com/GSA/IAE-Transparency-Space/issues).
