@@ -42,7 +42,7 @@ Need more help? Click [here](https://github.com/GSA/IAE-Architecture/tree/master
 | Web Service | Endpoint in Test Environment |
 |---|---|
 | SAM Entity Management |[https://test.sam.gov/SAMWS/1.0/Entity](https://test.sam.gov/SAMWS/1.0/Entity)|
-| SAM Exclusion |[https://gw.test.sam.gov/SAMWS/1.0/ExclusionSearch](https://gw.test.sam.gov/SAMWS/1.0/ExclusionSearch)|
+| SAM Exclusion |[https://test.sam.gov/SAMWS/1.0/ExclusionSearch](https://test.sam.gov/SAMWS/1.0/ExclusionSearch)|
 
 
 
