@@ -25,7 +25,7 @@ There are 4 types of Exclusions:
 4. Voluntary Exclusion
 
 
-Exclusions have a Cause and Effect or in other words, what events lead to the Exclusion and what limitations are imposed on the Entity with the Exclusion. For more details on Exclusion Types [Go Here.](https://www.sam.gov/portal/SAM/?navigationalstate=JBPNS_rO0ABXdcACJqYXZheC5mYWNlcy5wb3J0bGV0YnJpZGdlLlNUQVRFX0lEAAAAAQApdmlldzpjYjYyZGNkNS1kNTc4LTRmZDUtYjgyMi02MzVkZWFiOWQ5ZWQAB19fRU9GX18*&portal:componentId=8ed96f1b-09ff-48fe-aadf-71d9e89e497e&interactionstate=JBPNS_rO0ABXc5ABBfanNmQnJpZGdlVmlld0lkAAAAAQAYL2pzZi9oZWxwL3NhbUhlbHBOYXYuanNwAAdfX0VPRl9f&portal:type=action##11)
+Exclusions have a Cause and Effect or in other words, what events lead to the Exclusion and what limitations are imposed on the Entity with the Exclusion. [sam.gov](https://www.sam.gov) has more information on Exclusions.
 
 #### Where to get SAM Data
 
