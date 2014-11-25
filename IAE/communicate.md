@@ -13,8 +13,8 @@ If the IAE Transparency Space does not contain the information you are looking f
 More information about the IAE and the systems we manage is available at [GSA.gov/IAE](http://gsa.gov/portal/content/105036) and in our [online industry collaboration community](https://interact.gsa.gov/group/integrated-award-environment-iae-industry-community) on Interact.
 
  - [System for Award Management (SAM)](https://sam.gov/): Entity registration and management
- - [Past Performance Information Retrieval System (PPIRS)](www.ppirs.gov): Single source for contractor performance information
- - [Contractor Performance Assessment Reporting System (CPARS)](): Hosts applications used to document contractor and grantee performance information
+ - [Past Performance Information Retrieval System (PPIRS)](https://www.ppirs.gov): Single source for contractor performance information
+ - [Contractor Performance Assessment Reporting System (CPARS)](https://www.cpars.gov/): Hosts applications used to document contractor and grantee performance information
  - [Federal Awardee Performance and Integrity Information System (FAPIIS)](https://www.fapiis.gov/fapiis/index.jsp): Contains government-entered records on contractor performance, including past performance evaluations and suspensions and debarments
  - [Catalog of Federal Domestic Assistance (CFDA)](https://www.cfda.gov/?s=main&mode=list&tab=list&tabmode=list): Full listing of Federal assistance programs, projects, services, and activities
  - [Electronic Subcontracting Reporting System (eSRS)](https://www.esrs.gov): Online tool to streamline the process of reporting on subcontracting plans and provide agencies with access to data on subcontracting performance
