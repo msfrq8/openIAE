@@ -94,7 +94,7 @@ As soon as you click **SUBMIT** the Government Sponsor/Supervisor will get an au
 GSA cannot approve your request until the other two approvals have been completed. Once GSA has rendered final approval, you will receive an email stating that the role has been granted.
 
 
-[On System Account POCs](SAM-POCs.md)
+[On System Account POCs](SAM-POCs.html)
 
 Comments? Questions?  [Talk to us](https://github.com/GSA/IAE-Transparency-Space/issues).
 
