@@ -17,9 +17,9 @@ System account points of contact (POC) are authorized administrators of the acco
 <img src="../../images/POC-Menu1.png" class="markdown-image-inline">
 3. You will see a list of POCs.  To add a POC, click the Add POC button.  
 To update information, update the relevant boxes (First Name, Last Name) and click the SAVE button.
-<div class="container" style="overflow: hidden; width: 100%;">
+
 <img src="../../images/POC-Menu2.png" style="float:center" class="markdown-imagecenter" alt="">
-</div>
+
 4. To delete a POC, select the POC and click the Delete button.  Please note, you may not delete the first POC.  
 If the first POC is gone, you must change that POC.  You may remove the 2nd and 3rd POCs.
 
