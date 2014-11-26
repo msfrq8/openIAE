@@ -6,13 +6,12 @@ title: What's Next
 ### What's Next for Transparency?
 
 - Release of the IAE Common Services Platform (CSP) Architecture
-- Improving formatting of the documentation
-- Issue and Pull Request Dashboard. Example: [18F Dashboard](https://18f.gsa.gov/dashboard/)
-- Sub Award Reporting API Documentation and code base
-- FPDS data documentation
-- ..... other items in our backlog
+- Improve formatting of the documentation
+- Create issue and pull request dashboard similar to [18F Dashboard](https://18f.gsa.gov/dashboard/)
+- Publish sub-award Reporting API Documentation and code base
+- Upload FPDS data documentation
 
-We would like to hear from you. Let us know what you would like to see next, [click here](https://github.com/GSA/IAE-Transparency-Space/issues).
+We would like to hear from you. To let us know what you would like to see next, [click here](https://github.com/GSA/IAE-Transparency-Space/issues).
 
 #### Useful Links
 [Github In Government](https://github.com/18F/github-in-government)  
