@@ -5,7 +5,7 @@ title: What's Next
 ---
 ### What's Next for Transparency?
 
-- Release of the IAE Common Services Platform (CSP) Architecture
+- Release of IAE Common Services Platform (CSP) Architecture
 - Improve formatting of the documentation
 - Create issue and pull request dashboard similar to [18F Dashboard](https://18f.gsa.gov/dashboard/)
 - Publish sub-award Reporting API Documentation and code base
