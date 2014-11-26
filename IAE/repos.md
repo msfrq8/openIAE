@@ -9,18 +9,18 @@ nav: repos
 
 
 
-### All IAE Related Public Github Repositories
+### IAE Repositories
 
 
-The following is a list of existing and proposed Github repositories maintained by the IAE Transparency Initiative:
+Existing and proposed repositories:
 
 
- - [IAE Architecture Repository](https://github.com/GSA/IAE-Architecture) - This repository contains all the architecture, design and code artifacts required to understand the functional definition of IAE, the design and ultimate technical implementation. 
- - [SAM API](https://github.com/GSA/sam_api) - This is the documentation repository for the IAE SAM API
+ - [IAE Architecture Repository](https://github.com/GSA/IAE-Architecture) - The repository for the architecture, design, and code artifacts required to understand the functional definition of IAE, as well as the design and ultimate technical implementation. 
+ - [SAM API](https://github.com/GSA/sam_api) - The documentation repository for the IAE System for Award Management API
 
 _Coming Soon_
 
- - Additional SAM Data documentation
+ - Additional SAM Data Documentation
  - IAE Common Services Architecture
  - IAE Subaward Reporting API Documentation and Codebase
  - IAE Common Services Platform Codebase
