@@ -12,11 +12,11 @@ layout: default
 
 This site is organized into five content areas:
 
-__Using this Site:__  This page will explain the different ways you can benefit from the IAE Transparency Initiative as well as how you can provide feedback on the documentation posted here.
+__Using this Site:__  This page will explain the different ways you can benefit from openIAE as well as how you can provide feedback on the documentation posted here.
 
 __About IAE:__  For those unfamiliar with the Integrated Award Environment, this page will detail the mission, scope, governance, and principles of IAE.
 
-__Repositories:__  This page contains links to repositories maintained by the IAE Transparency Initiative.
+__Repositories:__  This page contains links to repositories maintained by the IAE.
 
 __Developer Resources:__  The Developer Resources page will provide data and resources that can be leveraged to develop applications and build environments.
 
