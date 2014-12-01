@@ -3,7 +3,7 @@ layout: default
 nav: main
 title: What's Next
 ---
-### What's Next for Transparency?
+### What's Next for openIAE?
 
 - Release of IAE Common Services Platform (CSP) Architecture
 - Improve formatting of the documentation
