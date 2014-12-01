@@ -6,10 +6,8 @@ layout: default
 
 ### Overview
 
-<p>Welcome to the IAE Transparency Initiative! This site is the home of documents, code, and information related to the U.S. General Service Administration’s (GSA) Integrated Award Environment (IAE) Transparency Initiative. This initiative increases openness within IAE and improves systems and functions for the acquisition and assistance communities and for our business partners.
-This repository is the initial release of architecture and code information. As the development process progresses, design and code will be added on a rolling basis.</p>
+<p>Welcome to openIAE! openIAE is an open source project managed by the U.S. General Service Administration’s (GSA) Integrated Award Environment (IAE). This site is the home of code, documents and information related to openIAE.
 
-This repository is the initial release and contains limited information. As the development process progresses, design and code will be added on a rolling basis.
 <h4>Organization</h4>
 
 This site is organized into five content areas:
