@@ -28,7 +28,7 @@ SAM hosts the extract files on our SFTP server and on the sam.gov site. <br>
 2. For Official Use Only (**FOUO**) (includes certain types of Point of Contact Information and Federal Hierarchy information)<br>
 3. **Sensitive** (includes banking information and MPIN)
 
-If you require either **FOUO** or **Sensitive** levels of access you will need to add a role to your SAM account. To do that [click here](http://gsa.github.io/openIAE/developer_resources/Access_SAM_data.html) for instructions.
+If you require either **FOUO** or **Sensitive** levels of access you will need to add a role to your SAM account. To do that [click here](https://gsa.github.io/openIAE/developer_resources/Access_SAM_data.html) for instructions.
 
 
 **Tools available:**
