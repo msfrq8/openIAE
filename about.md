@@ -27,7 +27,7 @@ __The IAE Architectural Principles:__
 
 ####IAE Systems
 <div class="container" style="overflow: hidden; width: 100%;">
-<img src="../images/IAESystems.png" style="float:center" class="markdown-imagecenter" alt="" />
+<img src="./images/IAESystems.png" style="float:center" class="markdown-imagecenter" alt="" />
 <br clear="left">
 </div>
 
