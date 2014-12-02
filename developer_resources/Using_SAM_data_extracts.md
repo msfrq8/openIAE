@@ -44,4 +44,4 @@ If you require either **FOUO** or **Sensitive** levels of access you will need t
 | [Exclusions Extract User Guide](https://github.com/GSA/IAE-Architecture/blob/master/as-is/tech-docs/SAM/SAM_Exclusions_Extract_User_Guide.pdf?raw=true)|SAM Exclusions Extract contains a list of all currently open exclusions in SAM|
 
 
-Comments? Questions?  [Talk to us](https://github.com/GSA/IAE-Transparency-Space/issues).
+Comments? Questions?  [Talk to us](https://github.com/GSA/openIAE/issues).
