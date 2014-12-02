@@ -14,7 +14,7 @@ System account points of contact (POC) are authorized administrators of the acco
 
 1. Log into SAM.gov
 2. In the MY SAM menu select System Account Settings > System POC Information
-<img src="../../images/POC-Menu1.png" class="markdown-image-inline">
+<img src="../images/POC-Menu1.png" class="markdown-image-inline">
 3. You will see a list of POCs.  To add a POC, click the Add POC button.  
 To update information, update the relevant boxes (First Name, Last Name) and click the SAVE button.
 
