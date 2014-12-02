@@ -10,7 +10,7 @@ SAM offers web services to search for both Entity data and Exclusions data.<br>
 
 * ```DUNSNumber``` (Both DUNS and DUNS + 4)
 * ```CAGECode```
-* ```taxpayerIdentificationNumber``` (requires addtional access  [Click here](/developer_resources/Access_SAM_data.html "Data Access") for more information.)<br>
+* ```taxpayerIdentificationNumber``` (requires addtional access  [Click here](http://gsa.github.io/openIAE/developer_resources/Access_SAM_data.html "Data Access") for more information.)<br>
 * ```startDate``` & ```endDate``` (Maximum search time allowed between startDate and endDate is 24 hours.)
 * ```registrationStatus```
 
@@ -55,7 +55,7 @@ Need more help? Click [here](https://github.com/GSA/IAE-Architecture/tree/master
 | SAMSensitive | Contact IAETransparency@gsa.gov | Offers more secure data including banking information and MPIN. |
 
 A test id is not needed for the SAM Exclusions XML web service. There is no role or authentication requirement.
-For more information on SAM account access levels click [here](http://gsa.github.io/IAE-Transparency-Space/IAE/developer_resources/Access_SAM_data.html).
+For more information on SAM account access levels click [here](http://gsa.github.io/openIAE/developer_resources/Access_SAM_data.html).
  
 
 Tools available:
@@ -65,10 +65,10 @@ Tools available:
 | [Web Services tutorial](https://github.com/GSA/IAE-Architecture/tree/master/as-is/tech-docs/SAM) | Documents how to build an Entity Management web service. |
 | [Sample XML request/response]() | Included in the web services tutorial. Various sample request and response for Entity Management. |
 | [Soap UI project]() | Project ready for import into Soap UI. (http://www.soapui.org/) |
-| [SAM Functional Data Dictionary](https://github.com/GSA/IAE-Architecture/blob/master/as-is/tech-docs/SAM/SAM%20Functional%20Data%20Dictionary%20v4.0.pdf) |All SAM field definitions and enumerations.|
+| [SAM Functional Data Dictionary](https://github.com/GSA/IAE-Architecture/blob/master/as-is/tech-docs/SAM/SAM%20Functional%20Data%20Dictionary%20v4.0.pdf?raw=true) |All SAM field definitions and enumerations.|
 | [Web Services Response Schema Documentation]() | Coming Soon! |
 
-Comments? Questions?  [Talk to us](https://github.com/GSA/IAE-Transparency-Space/issues).
+Comments? Questions?  [Talk to us](https://github.com/GSA/openIAE/issues).
 
 
 
