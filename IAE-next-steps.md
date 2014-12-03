@@ -8,10 +8,9 @@ title: What's Next
 - Release of IAE Common Services Platform (CSP) Architecture
 - Improve formatting of the documentation
 - Create issue and pull request dashboard similar to [18F Dashboard](https://18f.gsa.gov/dashboard/)
-- Publish sub-award Reporting API Documentation and code base
-- Upload FPDS data documentation
+- FPDS data documentation for ATOM feeds
 
-We would like to hear from you. To let us know what you would like to see next, [click here](https://github.com/GSA/IAE-Transparency-Space/issues).
+We would like to hear from you. To let us know what you would like to see next, [click here](https://github.com/GSA/openIAE/issues).
 
 #### Useful Links
 [Github In Government](https://github.com/18F/github-in-government)  
