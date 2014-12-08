@@ -39,7 +39,7 @@ If you require either **FOUO** or **Sensitive** levels of access you will need t
 | [Database load scripts for extracts](https://github.com/GSA/IAE-Architecture/tree/master/as-is/tech-docs/SAM/ExtractLoadScripts) | Use these scripts when you are setting up your database to consume SAM Extracts. |
 | [Guide to SFTP Download](https://github.com/GSA/IAE-Architecture/blob/master/as-is/tech-docs/SAM/Guide%20to%20Downloading%20SAM%20Extracts%20via%20SFTP%20Site.pdf?raw=true) | Instruction guide on how to download SAM extract files.|
 | <a href="https://github.com/GSA/IAE-Architecture/tree/master/as-is/tech-docs/SAM/Sample%20Extract%20Files" target="_blank">Sample Files</a> | Sample files at all data access levels |
-| [SAM Functional Data Dictionary](https://github.com/GSA/IAE-Architecture/blob/master/as-is/tech-docs/SAM/SAM%20Functional%20Data%20Dictionary%20v4.0.pdf?raw=true) |   |
+| [SAM Functional Data Dictionary](https://github.com/GSA/IAE-Architecture/blob/master/as-is/tech-docs/SAM/SAM%20Functional%20Data%20Dictionary%20v4.0.pdf?raw=true) | Version 4.0  |
 |---|---|
 | [Exclusions Extract User Guide](https://github.com/GSA/IAE-Architecture/blob/master/as-is/tech-docs/SAM/SAM_Exclusions_Extract_User_Guide.pdf?raw=true)|SAM Exclusions Extract contains a list of all currently open exclusions in SAM|
 
