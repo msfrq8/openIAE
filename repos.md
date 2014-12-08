@@ -22,7 +22,6 @@ _Coming Soon_
 
  - Additional SAM Data Documentation
  - IAE Common Services Architecture
- - IAE Subaward Reporting API Documentation and Codebase
  - IAE Common Services Platform Codebase
 
 ####What would you like to see? <a href="https://github.com/GSA/openIAE/issues" target="_blank">Tell us.</a>
