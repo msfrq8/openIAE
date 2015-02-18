@@ -10,7 +10,7 @@ layout: default
 
 <h4>Organization</h4>
 
-This site is organized into five content areas:
+This site is organized into five content areas: 
 
 __Using this Site:__  This page will explain the different ways you can benefit from openIAE as well as how you can provide feedback on the documentation posted here.
 
