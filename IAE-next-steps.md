@@ -4,7 +4,7 @@ nav: main
 title: What's Next
 ---
 ### What's New for openIAE?
-Check out IAE's [Open Source Framework] (https://github.com/GSA/openIAE/blob/gh-pages/OpenSourceFramework.md) Let us know what you think!
+Check out IAE's [Open Source Framework](https://github.com/GSA/openIAE/blob/gh-pages/OpenSourceFramework.md) Let us know what you think!
 
 ### What's Next for openIAE?
 
