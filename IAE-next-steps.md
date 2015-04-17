@@ -3,9 +3,13 @@ layout: default
 nav: main
 title: What's Next
 ---
+### What's New for openIAE?
+Check out IAE's [Open Source Framework] (https://github.com/GSA/openIAE/blob/gh-pages/OpenSourceFramework.md) Let us know what you think!
+
 ### What's Next for openIAE?
 
 - Release of IAE Common Services Platform (CSP) Architecture
+- Release of IAE API Framework
 - Improve formatting of the documentation
 - Create issue and pull request dashboard similar to [18F Dashboard](https://18f.gsa.gov/dashboard/)
 - FPDS data documentation for ATOM feeds
