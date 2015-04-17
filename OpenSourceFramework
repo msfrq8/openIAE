@@ -1,0 +1,14 @@
+---
+layout: default
+nav: main
+title: Open Source Framework
+---
+### IAE Open Source Framework
+
+Background
+It is critical that GSA’s applications and services protect sensitive information and keep systems secure. Open sourcing code provides many benefits including lower cost, faster fixes, and greater flexibility. An additional benefit of opening source code lies with engaging stakeholders such as end users, third parties, and other government agencies. Engaging these stakeholders, seeking their feedback, and collaborating with them leads to a higher quality product. Programs within GSA may be reviewing or actively planning to open-source code within their programs. Some will decide not to release code for public consumption while other programs will decide that it makes good sense to provide code to the user community and set up feedback loops. In general, consistent with the U.S. Digital Services Playbook, the default should be open source.
+
+- Create issue and pull request dashboard similar to [18F Dashboard](https://18f.gsa.gov/dashboard/)
+- FPDS data documentation for ATOM feeds
+
+We would like to hear from you. To let us know what you would like to see next, [click here](https://github.com/GSA/openIAE/issues).
