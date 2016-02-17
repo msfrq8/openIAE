@@ -234,9 +234,12 @@ $site-top:           124px;
 // Main Content --------- //
 
 .main-content {
-  @include media($medium-screen) {
-    top: $site-top;
-  }
+    ul{
+      width:53rem;
+    }
+    @include media($medium-screen) {
+      top: $site-top;
+    }
   position: absolute;
   top: 4rem;
   bottom: 0;
