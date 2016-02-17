@@ -3,6 +3,7 @@ layout: dev_resources
 title: Using the SAM Web Services
 nav: using_SAM_web_services
 ---
+
 ### Using SAM Web Services 
 SAM offers web services to search for both Entity data and Exclusions data.
 
