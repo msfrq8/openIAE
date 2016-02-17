@@ -4,7 +4,6 @@ layout: sam_web_standards
 ---
 # SAM Web Standards
 
-# Getting Started
 The SAM Web Standards are developed primarily for Front-End Developers; however, the information provided can be used to inform all user levels identified. The SAM Web Standards defines principles and practices that help developers, designers, and users of the SAM platform and services. These guidelines inherit from multiple private and Federal resources including, but not limited to:
 
 **Design and development:**
@@ -52,6 +51,7 @@ The *SAM Web Standards* identifies the following technology layers to describe t
 Each user type can be modified to distinguish between system personnel. Further, each type can be directly associated with a technology layer. Finally, it is important to note that the fidelity and validity of each layer are dependent on the preceding layer.  EXAMPLE: if the data layer does not house the proper information in the proper format, the middleware layer loses fidelity and validity, and so on.
 
 ## Secure by default, human-friendly, and no www
+
 There are two transfer protocols used to serve me Web content: Hypertext Transfer Protocol (HTTP) and HTTP Secure (HTTPS). By default all uniform resource locators (URLs) should use HTTPS; if possible, a non-HTTPS version should not be allowed.
 
 URLs represent complete addresses for content and should be human-friendly. Two examples are below:
@@ -74,6 +74,7 @@ URLs should be case-*insensitive*; therefore, the following URL pairs should res
 This allows communication collateral to be built in a more human-readable manner by using upper- and lower-case letters to separate words within URLs while simultaneously allowing direct copy and paste of the URL into a browser.
 
 ## Information Architecture
+
 There are two primary ways for a front-end user to find information. The first is through links from one page to another. The second is by searching for content and following links within those results. 
 
 When a front-end user is looking for high-level or general information, the front-end user should be able to navigate the site quickly via static menus. The front-end user may not know exactly where to go or what (s)he is looking for; the architecture can help guide the front-end user by starting broad (categories) and becoming more detailed (a specific notice, wage determination, program, and so on).
@@ -81,6 +82,7 @@ When a front-end user is looking for high-level or general information, the fron
 When a front-end user knows the information (s)he is looking for, search becomes the better; therefore, front-end users should be allowed to search using text with additional filtering capabilities within a given category.
 
 ### Navigation
+
 Information Architecture, in terms of navigation, refers to the layout and depth of pages within a website. The *SAM Web Standards* recognizes four levels of navigation for page-related content.
 
 1. Main Navigation: Contained within the header and footer components and is used to navigate between system-wide pages (the Legal page, for example) and between categories within the system (Wages, for example). From a front-end user perspective, this results in a change from transition.SAM.gov to something like transition.SAM.gov/wages.
@@ -88,6 +90,7 @@ Information Architecture, in terms of navigation, refers to the layout and depth
 3. Sidebar Navigation (up to three levels): Navigation appearing in a vertical sidebar along the left side of pages using the element from the *US Web Standards*. This type of navigation should be avoided, if possible or practical. Further, if possible, only one level of navigation will make it easier to navigate.
 
 ### Content
+
 Information Architecture, in terms of content, refers to how content is displayed. This could be the ordering of information within a block of content (chapters within a book, paragraphs within a chapter, sentences within a paragraph, and so on) or how blocks of content are arranged within a page (books in a library).
 
 For the purposes of the *SAM Web Standards* we recognize two primary types of content from a front-end user perspective: content and metadata. Content refers to titles of pages, body copy, attachments, and so on. Metadata refers to details related to *that* content; posting date, related category, and so on.
@@ -95,6 +98,7 @@ For the purposes of the *SAM Web Standards* we recognize two primary types of co
 Grouping content and metadata separately allows me to quickly discern the *content* of a page from the information *about* the content of a page depending on which I, as a front-end user, am interested in. Further, content and metadata should also be ordered, as much as possible, in a way that gives me what I am mostly likely concerned about first, with the details later. For reference, see the Inverted Pyramid from the profession of journalism.
 
 ### Content-focused and printable
+
 For content pages (as opposed to those designed as portals or navigation purposes), the text-based content should not be overpowered by the surrounding navigation or branding (chrome). Normal operating distance from the screen should also be considered. To allow users the ability to adjust font sizes using their browser, front-end developers and designers should use relative font sizing (ems) and not stipulate font sizes less than one em. Increased leading (the space between lines) makes it easier for readers to discern one line of text from the next.
 
 On any given page, I should be to print (or print to file) the content of that page and receive a well-formed (readable) document, without chrome elements. Print stylesheets can be used to facilitate this outcome by hiding the navigation elements, sidebars, footers (except copyright information if applicable), and so on. Further, the size of the printed page is usually unknown; therefore, it is important to remove (or override) any fixed width information and replace it with a percentage (usually 100%).
@@ -102,10 +106,13 @@ On any given page, I should be to print (or print to file) the content of that p
 Note: Printing a page should only include content considered public unless you add proper document handling, marking and labeling in accordance with Federal regulations.
 
 ## Front-End Developer
+
 ### Connection and Processor Speeds
+
 As the Internet becomes more ubiquitous across multiple platforms and devices, it is important to allow for various display sizes, download speeds (bandwidth) and processing capabilities. As such, it is important to create layouts that adjust and change content as the display width of the screen changes; height is not considered, as scrolling vertically can be of any length. Further, whenever possible, processing should be performed on the server before the content is downloaded by the user’s device (server-side) as opposed to performing complex calculations on the device (client-side) using technologies such as JavaScript.
 
 ### Pages, Content, and Other Elements
+
 A Web page is made up of three primary components: URL, page title and content. Without a URL, I can not get to a specific page. Page titles, while optional, help me orient myself within the overall environment. Content can be described as related text, images or other data conveying a topic of interest; therefore, site navigation, footer text, and so on (chrome) are not generally considered content. 
 
 Having said that, chrome elements are considered part of the page. transition.SAM.gov supports unauthenticated (public), authenticated (requires login; private) and mixed pages, content and elements:
@@ -115,6 +122,7 @@ Having said that, chrome elements are considered part of the page. transition.SA
 * By extension, a page containing both types of content and elements displays the public content to all front-end users and both the public and private content to logged in front-end users.
 
 ### Web Technologies
+
 The server-side language performs the duties of querying the database(s) and preparing HTML content for the user’s device (client). Because the hardware capabilities are managed by transition.SAM.gov, it is recommended that the server-side language be used as much as possible for processing as much information as possible.
 
 HTML is the relatively static content interpreted by the browser for the display of content. Further, it plays the primary role in accessibility and assistive technologies; therefore, it should be well-formed and as minimal as possible (see Accessibility).
