@@ -234,7 +234,7 @@ $site-top:           124px;
 // Main Content --------- //
 
 .main-content {
-    ul{
+    ul,ol{
       width:53rem;
     }
     @include media($medium-screen) {
