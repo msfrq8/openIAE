@@ -85,9 +85,9 @@ When a front-end user knows the information (s)he is looking for, search becomes
 
 Information Architecture, in terms of navigation, refers to the layout and depth of pages within a website. The *SAM Web Standards* recognizes four levels of navigation for page-related content.
 
-1. Main Navigation: Contained within the header and footer components and is used to navigate between system-wide pages (the Legal page, for example) and between categories within the system (Wages, for example). From a front-end user perspective, this results in a change from transition.SAM.gov to something like transition.SAM.gov/wages.
-2. Category Navigation: Appended to the header area and provides navigation within a category; thereby, allowing each category to have primary pages (“Due to Be Revised” within Wages, for example). Resulting in something like transition.SAM.gov/wages/to-be-revised.
-3. Sidebar Navigation (up to three levels): Navigation appearing in a vertical sidebar along the left side of pages using the element from the *US Web Standards*. This type of navigation should be avoided, if possible or practical. Further, if possible, only one level of navigation will make it easier to navigate.
+1. **Main Navigation:** Contained within the header and footer components and is used to navigate between system-wide pages (the Legal page, for example) and between categories within the system (Wages, for example). From a front-end user perspective, this results in a change from transition.SAM.gov to something like transition.SAM.gov/wages.
+2. **Category Navigation:** Appended to the header area and provides navigation within a category; thereby, allowing each category to have primary pages (“Due to Be Revised” within Wages, for example). Resulting in something like transition.SAM.gov/wages/to-be-revised.
+3. **Sidebar Navigation (up to three levels):** Navigation appearing in a vertical sidebar along the left side of pages using the element from the *US Web Standards*. This type of navigation should be avoided, if possible or practical. Further, if possible, only one level of navigation will make it easier to navigate.
 
 ### Content
 
