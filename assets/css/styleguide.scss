@@ -85,7 +85,7 @@ $site-top:           124px;
       margin-top: -5px;
       
       li { 
-        display: inline; 
+        display: inline;
         font-family: $font-sans;
 
         &:last-child .usa-button {
@@ -236,6 +236,9 @@ $site-top:           124px;
 .main-content {
     ul{
       width:53rem;
+    }
+    ol{
+      width: 53rem;
     }
     @include media($medium-screen) {
       top: $site-top;
