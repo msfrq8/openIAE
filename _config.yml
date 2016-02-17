@@ -2,7 +2,7 @@ name: GSA Open IAE
 markdown: kramdown
 highlighter: rouge
 safe: true
-baseurl: /pages/GSA-IAE/openIAE
+baseurl: /openIAE
 exclude: ['.ruby-version', 'node_modules', 'package.json', 'bower.json']
 
 permalink: pretty
