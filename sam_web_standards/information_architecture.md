@@ -1,5 +1,5 @@
 ---
-title: SAM Web Standards | Getting Started
+title: SAM Web Standards | Information Architecture
 layout: sam_web_standards
 ---
 
