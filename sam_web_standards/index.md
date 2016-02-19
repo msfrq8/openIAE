@@ -4,7 +4,7 @@ layout: sam_web_standards
 ---
 # SAM Web Standards
 
-The SAM Web Standards are developed primarily for Front-End Developers; however, the information provided can be used to inform all user levels identified. The SAM Web Standards defines principles and practices that help developers, designers, and users of the SAM platform and services. These guidelines inherit from multiple private and Federal resources including, but not limited to:
+The *SAM Web Standards* are developed primarily for Front-End Developers; however, the information provided can be used to inform all user levels identified. The *SAM Web Standards* defines principles and practices that help developers, designers, and users of the SAM platform and services. These guidelines inherit from multiple private and Federal resources including, but not limited to:
 
 **Design and development:**
 
