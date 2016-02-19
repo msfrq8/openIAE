@@ -26,9 +26,9 @@ NOTE: If your question is not answered directly within the *SAM Web Standards*, 
 ## Users and Technology Layers
 The *SAM Web Standards* identifies the following user types (not to be confused with personae established for transition.SAM.gov):
 
- * **Front-end user:** An individual using the Website
- * **Front-end developer:** A developer who is responsible for creating code to display the front-end to front-end users
- * **Middleware developer:** A developer who is responsible for creating code that acts as a bridge between the front-end presentation and back-end data layers
+ * **Front-end user:** An individual using the Website.
+ * **Front-end developer:** A developer who is responsible for creating code to display the front-end to front-end users.
+ * **Middleware developer:** A developer who is responsible for creating code that acts as a bridge between the front-end presentation and back-end data layers.
  * **Back-end developer:** A developer who is responsible for creating data architectures and relationships to be accessed via APIs.
 
 The *SAM Web Standards* recognizes the following states for front-end users and developers:
@@ -38,9 +38,9 @@ The *SAM Web Standards* recognizes the following states for front-end users and 
 
 The *SAM Web Standards* identifies the following technology layers to describe the human-computer interaction of transition.SAM.gov:
 
-* **Presentation:** Represents the final rendered page in a browser
-* **Markup:** Refers to all markup and code downloaded to (or run on) the user’s computer (client-side) to render (or update) the page in a browser
-* **Middleware:** Refers to code acting as a bridge between the markup and data layers; further, this layer may refer to server-side code used in calculating, preparing, or returning information
+* **Presentation:** Represents the final rendered page in a browser.
+* **Markup:** Refers to all markup and code downloaded to (or run on) the user’s computer (client-side) to render (or update) the page in a browser.
+* **Middleware:** Refers to code acting as a bridge between the markup and data layers; further, this layer may refer to server-side code used in calculating, preparing, or returning information.
 * **Data:** Refers to all individual files, database tables and database records stored for retrieval by the interface layer.
 
 Each user type can be modified to distinguish between system personnel. Further, each type can be directly associated with a technology layer. Finally, it is important to note that the fidelity and validity of each layer are dependent on the preceding layer.  EXAMPLE: if the data layer does not house the proper information in the proper format, the middleware layer loses fidelity and validity, and so on.
@@ -110,8 +110,8 @@ A Web page is made up of three primary components: URL, page title and content. 
 
 Having said that, chrome elements are considered part of the page. transition.SAM.gov supports unauthenticated (public), authenticated (requires login; private) and mixed pages, content and elements:
 
-* Public pages, content and other elements are visible by front-end users at all times
-* Private pages, content and other elements are not delivered by the system to front-end users unless logged in. Put another way, links to pages or the content of a page requiring authentication should not be contained within the hypertext markup language (HTML) of the served page
+* Public pages, content and other elements are visible by front-end users at all times.
+* Private pages, content and other elements are not delivered by the system to front-end users unless logged in. Put another way, links to pages or the content of a page requiring authentication should not be contained within the hypertext markup language (HTML) of the served page.
 * By extension, a page containing both types of content and elements displays the public content to all front-end users and both the public and private content to logged in front-end users.
 
 ## Web Technologies
@@ -123,3 +123,14 @@ HTML is the relatively static content interpreted by the browser for the display
 Cascading Style Sheets (CSS) are responsible for defining the aesthetic characteristics of the rendered page. Further, they play a secondary role in accessibility and assistive technologies. Finally, most modern browsers allow CSS to be used instead of JavaScript for things such as animations and device handling.  It is recommended that CSS be leveraged whenever possible.
 
 JavaScript is a client-side language, which means the code is executed and processed by the user’s device. JavaScript can degrade battery life on mobile devices, exceed the limits of processor capabilities resulting in longer load times, or be disabled by the user altogether, which creates a poor experience. JavaScript use should, therefore, be limited to those functions that could not be achieved by other means. Examples include Asynchronous JavaScript and eXtensible Markup Language (AJAX) executions and/or HTML insertions; however, the use of JavaScript should not be required for the navigation of the site.
+
+*[SAM]: System for Award Management
+*[IAE]: Integrated Award Environment
+*[API]: Application Program Interface
+*[APIs]: Application Program Interfaces
+*[HTTP]: Hypertext Transfer Protocol
+*[HTTPS]: Hypertext Transfer Protocol Secure
+*[URL]: Uniform Resource Locator
+*[URLs]: Uniform Resource Locators
+*[AJAX]: Asynchronous JavaScript and eXtensible Markup Language
+*[HTML]: Hypertext Markup Language
