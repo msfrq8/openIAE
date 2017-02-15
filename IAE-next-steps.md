@@ -4,6 +4,7 @@ nav: main
 title: What's Next
 ---
 ### What's New for openIAE?
+Are you up for a challenge? We have posted a Request for Information (RFI) for Entity Validation Serivces. Read more [here](https://gsa.github.io/openIAE/sourcessought)
 Check out the IAE Common Serivces Platform Architecture [Open Source Framework](https://github.com/GSA/IAE-Architecture/blob/master/to-be/architecture/technology-architecture/iae-csp-architecture.pdf) Let us know what you think!
 
 ### What's Next for openIAE?
