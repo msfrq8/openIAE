@@ -1,4 +1,4 @@
-# GOVERNMENT SEEKS INPUT - ENTITY VALIDATION SERVICES
+## GOVERNMENT SEEKS INPUT - ENTITY VALIDATION SERVICES
 
 The Government is seeking to determine the availability of options to perform Entity Validation Services for the express purpose of protecting the integrity of taxpayer's dollars throughout the award process.   The Government recently posted a [sources sought notice](https://www.fbo.gov/index?s=opportunity&mode=form&id=46419b596deed9dd757b2d6729c3a765&tab=core&_cview=0) requesting input from providers with the skill and capabilities to perform Entity Validation Services.  The Government is requesting information about viable alternatives from all sectors.
 
