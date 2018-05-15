@@ -21,7 +21,7 @@ Daily extract files are processed Tuesday - Saturday of each week. The daily fil
 ### Where to get SAM Data Extracts 
 SAM hosts the extract files on our SFTP server and on the sam.gov site.
 
-1. SFTP - [Click here](https://github.com/GSA/IAE-Architecture/blob/master/as-is/tech-docs/SAM/Guide%20to%20Downloading%20SAM%20Extracts%20via%20SFTP%20Site.pdf?raw=true) for How to Download SAM Extracts from the SFTP server
+1. SFTP - [Click here](https://www.sam.gov/sam/SAM_Guide/SAM_Data_Access_User_Guide/SAM_Data_Access_User_Guide.html#_Toc343) for How to Download SAM Extracts from the SFTP server
 2. SAM.gov website. Go to [SAM.gov](https://www.sam.gov/) under the "Data Access" area and you will find all of the extract files.
 
 **SAM Extract files are available at three access levels:**
@@ -39,11 +39,11 @@ If you require either **FOUO** or **Sensitive** levels of access you will need t
 |---|---|
 | [SAM Extract Mappings v1.0](https://github.com/GSA/IAE-Architecture/tree/master/as-is/tech-docs/SAM/SAMWebServicesExtractsMappingsv1.0) | Description of field mappings, data types, etc. |
 | [Database load scripts for extracts](https://github.com/GSA/IAE-Architecture/tree/master/as-is/tech-docs/SAM/ExtractLoadScripts) | Use these scripts when you are setting up your database to consume SAM Extracts. |
-| [Guide to SFTP Download](https://github.com/GSA/IAE-Architecture/blob/master/as-is/tech-docs/SAM/Guide%20to%20Downloading%20SAM%20Extracts%20via%20SFTP%20Site.pdf?raw=true) | Instruction guide on how to download SAM extract files.|
+| [Guide to SFTP Download](https://www.sam.gov/sam/SAM_Guide/SAM_Data_Access_User_Guide/SAM_Data_Access_User_Guide.html#_Toc343) | Instruction guide on how to download SAM extract files.|
 | <a href="https://github.com/GSA/IAE-Architecture/tree/master/as-is/tech-docs/SAM/Sample%20Extract%20Files" target="_blank">Sample Files</a> | Sample files at all data access levels. Samplease are in .xls files and zipped up .dat files. |
-| [SAM Functional Data Dictionary](https://github.com/GSA/IAE-Architecture/blob/master/as-is/tech-docs/SAM/SAM%20Functional%20Data%20Dictionary%20v4.0.pdf?raw=true) | Version 4.0  |
+| [SAM Functional Data Dictionary](https://www.sam.gov/sam/transcript/SAM_Functional_Data_Dictionary.pdf) | Version 4.0  |
 |---|---|
-| [Exclusions Extract User Guide](https://github.com/GSA/IAE-Architecture/blob/master/as-is/tech-docs/SAM/SAM_Exclusions_Extract_User_Guide.pdf?raw=true)|SAM Exclusions Extract contains a list of all currently open exclusions in SAM|
+| [Exclusions Extract User Guide](https://www.sam.gov/sam/transcript/SAM_Exclusions_Extract_User_Guide.pdf)|SAM Exclusions Extract contains a list of all currently open exclusions in SAM|
 
 
 Comments? Questions?  [Talk to us](https://github.com/GSA/openIAE/issues).
