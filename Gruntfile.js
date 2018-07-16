@@ -5,7 +5,6 @@ module.exports = function(grunt) {
                 files: {
                     'static/js/docs.min.js': [
                         '_components/underscore/underscore.js', 
-                        '_components/jquery/jquery.js', 
                         'static/js/script.js'
                     ]
                 }
